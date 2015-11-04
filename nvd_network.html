@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>2015 Weekly View of NIST National Vulnerablities Database</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <style>
+        .link {
+            stroke: #2E2E2E;
+            stroke-width: 2px;
+        }
+
+        .node {
+            stroke: #fff;
+            stroke-width: 2px;
+        }
+        .textClass {
+            /*stroke: #323232;*/
+            stroke: #FFFFFF;
+            font-family: "Lucida Grande", "Droid Sans", Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            stroke-width: .5;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+<form>
+    <!-- <h3> Weekly Snapshot <input type="range" id="weekslider" name="points" value = 2 min="0" max="52" onchange="weekly(this.value)"> 52 </h3> -->
+    <h3> Choose a week <input type="week", name="choose_week", min="2015-W01", max="2015-W52", value="2015-W02", placeholder="Please choose a week", onchange="weekly(parseInt(this.value.substring(6,8)))"></h3>
+</form>
+<!-- <button onclick="addNodes()">Restart Animation</button> -->
+<script>
+    var graph;
+    function myGraph() {
+
+        // Add and remove elements on the graph object
+        this.addNode = function (obj) {
+            var radius = 300,
+                noise = (Math.random() - .5) * radius/10,
+
+                circle_x = (Math.round(Math.random())*2 - 1) * radius * Math.random() + w/2 + noise,
+                circle_y = Math.pow(Math.pow(radius,2) - Math.pow(circle_x - w/2, 2), .5) * (Math.round(Math.random())*2 - 1) + h/2 + noise,
+
+                center_x = (Math.random - 0.5) * w + noise*5,
+                center_y = h/2 + noise*5,
+
+                final_x = (obj.type == 0) ? center_x : circle_x,
+                final_y = (obj.type == 0) ? center_y : circle_y;
+
+            nodes.push({"id": obj.name, 
+                        "group": obj.group, 
+                        "threat": obj.threat, 
+                        'type': d3.svg.symbolTypes[obj.type],
+                        'x': final_x,
+                        'y': final_y,
+                        'fixed': ((obj.type == 0) ? true : false)
+                    });
+            update();
+        };
+
+        this.removeNode = function (id) {
+            var i = 0;
+            var n = findNode(id);
+            while (i < links.length) {
+                if ((links[i]['source'] == n) || (links[i]['target'] == n)) {
+                    links.splice(i, 1);
+                }
+                else i++;
+            }
+            nodes.splice(findNodeIndex(id), 1);
+            update();
+        };
+
+        this.removeLink = function (source, target) {
+            for (var i = 0; i < links.length; i++) {
+                if (links[i].source.id == source && links[i].target.id == target) {
+                    links.splice(i, 1);
+                    break;
+                }
+            }
+            update();
+        };
+
+        this.removeallLinks = function () {
+            links.splice(0, links.length);
+            update();
+        };
+
+        this.removeAllNodes = function () {
+            nodes.splice(0, links.length);
+            update();
+        };
+
+        this.addLink = function (obj) {
+            links.push({"source": findNode(obj.source), "target": findNode(obj.target), "value": obj.threat});
+            update();
+        };
+
+        var findNode = function (id) {
+            for (var i in nodes) {
+                if (nodes[i]["id"] === id) return nodes[i];
+            }
+            ;
+        };
+
+        var findNodeIndex = function (id) {
+            for (var i = 0; i < nodes.length; i++) {
+                if (nodes[i].id == id) {
+                    return i;
+                }
+            }
+            ;
+        };
+
+        // set up the D3 visualisation in the specified element
+        var w = window.innerWidth,
+            h = window.innerHeight/1.2,
+            r = 6;
+
+        var color = d3.scale.category10();
+
+        var vis = d3.select("body")
+                .append("svg:svg")
+                .attr("width", w)
+                .attr("height", h)
+                .attr("id", "svg")
+                .attr("pointer-events", "all")
+                .attr("viewBox", "0 0 " + w + " " + h)
+                .attr("perserveAspectRatio", "xMinYMid")
+                .append('svg:g');
+
+        var force = d3.layout.force();
+
+        var nodes = force.nodes(),
+            links = force.links();
+
+        var update = function () {
+            var link = vis.selectAll("line")
+                    .data(links, function (d) {
+                        return d.source.id + "-" + d.target.id;
+                    });
+
+            link.enter().append("line")
+                    .attr("id", function (d) {
+                        return d.source.id + "-" + d.target.id;
+                    })
+                    .attr("stroke-width", function (d) {
+                        return d.value / 100;
+                    })
+                    .attr("class", "link");
+            link.append("title")
+                    .text(function (d) {
+                        return d.value;
+                    });
+            link.exit().remove();
+
+            var node = vis.selectAll("g.node")
+                    .data(nodes, function (d) {
+                        return d.id;
+                    });
+
+            var nodeEnter = node.enter().append("g")
+                    .attr("class", "node")
+                    .call(force.drag);
+
+            nodeEnter.append("svg:path")
+                    .attr("id", function (d) {
+                        return "Node;" + d.id;
+                    })
+                    .attr("d", d3.svg.symbol()
+                        .size(function(d) { return (d.threat + 5) * 20; })
+                        .type(function(d) { return d.type; }))
+                    .attr("class", "nodeStrokeClass")
+                    .attr("fill", function(d) { return color(d.group); });
+
+            nodeEnter.append("svg:text")
+                    .attr("class", "textClass")
+                    .attr("x", 14)
+                    .attr("y", ".31em")
+                    .text(function (d) {
+                        return d.id;
+                    });
+
+            node.exit().remove();
+
+            var padding = 5,
+                radius=25;
+
+            function collide(alpha) {
+              var quadtree = d3.geom.quadtree(nodes);
+              return function(d) {
+                var rb = 2*radius + padding,
+                    nx1 = d.x - rb,
+                    nx2 = d.x + rb,
+                    ny1 = d.y - rb,
+                    ny2 = d.y + rb;
+                
+                quadtree.visit(function(quad, x1, y1, x2, y2) {
+                  if (quad.point && (quad.point !== d)) {
+                    var x = d.x - quad.point.x,
+                        y = d.y - quad.point.y,
+                        l = Math.sqrt(x * x + y * y);
+                      if (l < rb) {
+                      l = (l - rb) / l * alpha;
+                      d.x -= x *= l;
+                      d.y -= y *= l;
+                      quad.point.x += x;
+                      quad.point.y += y;
+                    }
+                  }
+                  return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+                });
+              };
+            }
+
+            force.on("tick", function () {
+
+                node.attr("transform", function (d) {
+                    return "translate(" + Math.max(r, Math.min(w - r, d.x)) + "," + Math.max(r, Math.min(h - r, d.y)) + ")";
+                });
+
+                link.attr("x1", function (d) {
+                    return d.source.x;
+                })
+                        .attr("y1", function (d) {
+                            return d.source.y;
+                        })
+                        .attr("x2", function (d) {
+                            return d.target.x;
+                        })
+                        .attr("y2", function (d) {
+                            return d.target.y;
+                        });
+                        node.each(collide(0.5));
+            });
+
+            // Restart the force layout.
+            force
+                    .gravity(-.001)
+                    .charge(-30)
+                    .friction(0.5)
+                    .linkDistance( function(d) { return d.value * 20 } )
+                    .size([w, h])
+                    .start();
+        };
+
+
+        // Make it all go
+        update();
+
+    }
+
+    function drawGraph(weeknumber) {
+
+        graph = new myGraph("#svgdiv");
+
+        // Load JSON and iteratively draw that weeks graph
+        d3.json('./nvd.json', function(error, json){
+            if (error) return console.warn(error);
+            nodes = json.nodes;
+            links = json.links;
+            var step = 1;
+            function nextval(){
+                step++;
+                return 20 + (15 + step);
+            };
+            weeklynodes = nodes.filter( function(d){ return d.week == weeknumber });
+            weeklylinks = links.filter( function(d){ return d.week == weeknumber });
+            for (var i = 0; i < weeklynodes.length; i++){
+                (function(ind){
+                    setTimeout(function(){ graph.addNode(weeklynodes[ind]); keepNodesOnTop(); }, 75 * ind);
+                })(i);
+            };
+            for (var i = 0; i < weeklylinks.length; i++){
+                (function(ind){
+                    setTimeout(function(){ graph.addLink(weeklylinks[ind]); keepNodesOnTop(); }, 50 * ind + 75 * weeklynodes.length);
+                })(i);
+            };
+        });
+
+    }
+
+    // Initialize on Week 2, first non-empty week
+    var thisweek = 2;
+    drawGraph(thisweek);
+
+    // because of the way the network is created, nodes are created first, and links second,
+    // so the lines were on top of the nodes, this just reorders the DOM to put the svg:g on top
+    function keepNodesOnTop() {
+        $(".nodeStrokeClass").each(function( index ) {
+            var gnode = this.parentNode;
+            gnode.parentNode.appendChild(gnode);
+        });
+    }
+    function weekly(newweek){
+        d3.select("svg")
+                .remove();
+        drawGraph(newweek);
+    }
+
+</script>
+</body>
+</html>

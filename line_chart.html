@@ -1,0 +1,91 @@
+<html>
+<div id="chartContainer">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+  <script type="text/javascript">
+    var w = window.innerWidth,
+        h = window.innerHeight/3;
+    var svg = dimple.newSvg("#chartContainer", w - 20, h);
+
+    d3.json('./nvd_timeline.json', function(error, data){
+      if (error) return console.warn(error);
+
+      // Create the chart as usual
+      // Needed to be empty chart initially
+      var myChart = new dimple.chart(svg);
+      myChart.setBounds(70, 40, w - 40, h - 80);
+
+      data[0].forEach(function (d) {
+          d["Day"] = d["Date"].substring(0, d["Date"].length - 9);
+          d["Time of Day"] =
+              "2000-01-01 " + d["Date"].substring(d["Date"].length - 8, d["Date"].length - 3);
+      }, this);
+      data[1].forEach(function (d) {
+          d["Day"] = d["Date"].substring(0, d["Date"].length - 9);
+          d["Time of Day"] =
+              "2000-01-01 " + d["Date"].substring(d["Date"].length - 8, d["Date"].length - 3);
+      }, this);
+      
+      // Add the x axis reading dates in the format 01 Jan 2012
+      // and displaying them 01 Jan
+      var x = myChart.addTimeAxis("x", "Day", "%d %b %Y", "%d %b");
+        x.title = 'Day';
+
+      // Add the y axis reading dates and times but only outputting
+      // times.  
+      // var y = myChart.addTimeAxis("y", "Value",
+      //     "%Y-%m-%d %H:%M", "%H:%M");
+      var y = myChart.addMeasureAxis("y", "Value");
+        y.title = 'Value';
+      
+      // Setting min and max dates requires them to be set
+      // as actual javascript date objects
+      // x.overrideMin = new Date("2015-01-01");
+      // x.overrideMax = new Date("2015-09-01");
+      y.tickFormat = '1g';
+
+      x.timePeriod = d3.time.weeks;
+      x.timeInterval = 8;
+
+      var seriesDict = {};
+
+      // Add the bubble series for shift values first so that it is
+      // drawn behind the lines
+      var s1 = myChart.addSeries("Weighted Threat", dimple.plot.bubble, [x, y]);
+      s1.data = data[0];
+      s1.lineMarkers = true;
+      seriesDict['Weighted Threat'] = { data: data[0], series: s1, visible: true }
+
+      var s2 = myChart.addSeries("Count of Vulnerabilities", dimple.plot.bubble, [x, y]);
+      s2.data = data[1];
+      s2.lineMarkers = true;
+      seriesDict['Count of Vulnerabilities'] = { data: data[1], series: s2, visible: true }
+
+      // Show a legend
+      myLegend = myChart.addLegend(180, 10, 360, 20, "right");
+
+      // Draw everything
+      myChart.draw();
+      myChart.legends = [];
+
+      myLegend.shapes.selectAll("rect")
+      // Add a click event to each rectangle
+      .on("click", function (e) {
+        var meta = seriesDict[e.aggField[0]];
+        if (seriesDict[e.aggField[0]].visible) {
+            meta.series.data = [];
+            d3.select(this).style("opacity", 0.2);
+            seriesDict[e.aggField[0]].visible = false;
+        } else {
+            meta.series.data = meta.data;         
+            d3.select(this).style("opacity", 1);     
+            seriesDict[e.aggField[0]].visible = true;
+        }
+        myChart.draw(1000);
+      });
+
+    });
+
+  </script>
+</div>
+</html>

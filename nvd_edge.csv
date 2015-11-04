@@ -1,0 +1,2346 @@
+source,target,value
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",novell opensuse,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",redhat jboss operations network,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",pivotx pivotx,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cups cups,0.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",osisoft pi sql for af,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",pivotx pivotx,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",hospira lifecare pca5,5.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'NONE')",rockwellautomation rsview32,4.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",pivotx pivotx,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",qualiteam x-cart,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",magic hills wonderplugin audio player,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",lenovo system update,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",nucleuscms nucleus cms,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",watchguard xcs,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",netcat netcat,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",services single sign-on server helper project services single sign-on server helper,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",photocati media photocrati,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",myupb ultimate php board,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",persistent systems radia client automation,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",npds revolution,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",motorola motorola scanner sdk,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fancybox project fancybox,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",moodle moodle,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",symantec endpoint protection manager,8.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",symantec endpoint protection manager,6.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",symantec endpoint protection manager,5.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",htaccess project htaccess,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",cloudwords cloudwords for multilingual,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",usersultra usersultra,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple os x server,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",samsung samsung security manager,8.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",google chrome,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",google chrome,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",google android,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",google chrome,6.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",linux linux kernel,7.2
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",xen xen,7.2
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",zohocorp servicedesk plus,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cmsjunkie j-classifiedsmanager,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",zohocorp manageengine supportcenter plus,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",themepunch slider revolution,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mylittleforum my little forum,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",google android,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cmsjunkie j-classifiedsmanager,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ecommercemajor project ecommercemajor,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",pragyan cms project pragyan cms,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",gnu glibc,6.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",gnu glibc,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",time tracker project time tracker,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple iphone os,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ricoh dl-1 sr10,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple itunes,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",almail al-mail32,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",almail al-mail32,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",impliedbydesign navigate,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",clip-bucket clipbucket,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cosmoshop cosmoshop,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",homepage decorator perltreebbs,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",nishishi fumy news clipper,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",shiromuku guestbook,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",saurus saurus cms,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",c-board moyuku project c-board moyuku,7.5
+"('ADJACENT_NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",okb.co.jp smartphone passbook,1.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",siemens climatix bacnet%2fip,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",dell sonicwall netextender firmware,4.4
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",smart trim project smart trim,3.5
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",strongswan strongswan,2.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",theeventscalendar eventbrite tickets,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",techsmith camtasia relay,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",dev4press gd bbpress attachments,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",dev4press gd bbpress attachments,4.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",oracle berkeley db,6.9
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle berkeley db,3.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle mysql,3.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",oracle solaris,4.9
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle hyperion,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle mysql,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",vmware vcenter server,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",blackcat-cms blackcat cms,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",fedoraproject fedora,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",synology download station,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",nokia %40vantage commander,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",splunk splunk,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe air,0.0
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",xen xen,2.9
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",novell opensuse,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",apple iphone os,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",pcman%27s ftp server project pcman%27s ftp server,7.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows rt 8.1,7.2
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows vista,6.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",linux linux kernel,6.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox esr,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",mozilla firefox,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft internet explorer,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft internet explorer,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft internet explorer,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows vista,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple mac os x,7.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",apple iphone os,7.2
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",digitalnature fusion,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple mac os x,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apple iphone os,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ffmpeg ffmpeg,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zoneo-soft phptraffica,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",debian debian linux,3.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wordpress wordpress,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",debian debian linux,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",webform project webform,3.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'COMPLETE')",zarafa zarafa collaboration platform,6.6
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",samsung samsung security manager,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ubercart webform integration project ubercart webform integration,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",osscube custom sitemap,5.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",linux linux kernel,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",web-dorado web-dorado spider video player,4.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",web-dorado spider catalog,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco ios,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco web security appliance,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",motorola motorola scanner sdk,7.2
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco ios xr,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco webex meeting center,5.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco nexus 7000,6.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco unified communications domain manager,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios xr,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",opac project opac,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ubercart currency conversion project ubercart currency conversion,5.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",phplist integration project phplist integration,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",dlc solutions course,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cloudwords cloudwords for multilingual,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hp matrix operating environment,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mit kerberos,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",wikiwiki project wikiwiki,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",openssl openssl,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",openssl openssl,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",rubyonrails ruby on rails,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",pivotal software spring framework,5.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm websphere commerce,2.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",novell opensuse,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",openssl openssl,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",openssl openssl,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",openssl openssl,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",rack project rack,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco ios xr,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco unified communications manager im and presence service,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco unified communications manager im and presence service,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco unified presence server,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco headend system release,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco unified ip phones 9900 series firmware,7.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco nexus 9332pq,4.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco wireless lan controller software,7.2
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",openstack neutron,4.0
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",thinkshout mailchimp,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",oracle fusion middleware,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",montala resourcespace,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",stunnel stunnel,5.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",openstack keystone,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wppa.opajaap wp-photo-album-plus,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",emc vipr srm,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",emc vipr srm,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",emc documentum d2,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",emc watch4net,4.0
+"('NETWORK', 'MEDIUM', 'MULTIPLE_INSTANCES', 'NONE', 'NONE')",oracle mysql,2.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle commerce platform,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",emc vipr srm,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",emc unisphere central,5.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",websense triton,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",websense v-series appliances,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mozilla firefox os,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",emc captiva capture,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",emc documentum d2,9.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",novell suse linux enterprise software development kit,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mozilla firefox esr,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",w1.fi wpa supplicant,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",digia qt,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",clusterlabs pacemaker,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",powerdns authoritative,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",apple iphone os,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",freereprintables articlefr,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",jupyter notebook,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",visual mining netcharts server,0.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",basware banking,2.1
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jdk,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle fusion middleware,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle supply chain products suite,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle siebel crm,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle integrated lights out manager firmware,7.5
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",novell opensuse,3.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle enterprise manager grid control,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sun sunos,3.3
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",sun sunos,4.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm java,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",ibm endpoint manager family,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm rational test workbench,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm infosphere master data management server,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm sterling field sales,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sybase adaptive server enterprise,7.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",microsoft windows server 2012,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap enterprise resource planning,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows server 2003,9.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",usaa mobile banking,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",info-zip unzip,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft project server,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",oxide project oxide,7.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",apport project apport,7.2
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",canonical ubuntu linux,2.1
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",microsoft .net framework,2.6
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft word viewer,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft exchange server,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",websense triton ap email,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",alkacon opencms,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mikrotik routeros,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mybb mybb,7.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe shockwave player,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",aegirproject hostmaster,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle database server,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle fusion middleware,3.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jdk,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle jre,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle database server,6.5
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",oracle vm virtualbox,6.6
+"('ADJACENT_NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",oracle fusion middleware,7.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle hyperion,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle peoplesoft products,4.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jdk,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",websense triton ap email,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",cisco sourcefire 3d9900 sensor,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apple iphone os,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",openbsd openssh,1.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco unified customer voice portal,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco email security appliance,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco firesight system software,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco mediasense,6.8
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios,6.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco wide area application services,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco headend digital broadband delivery system,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",emerson ams device manager,6.5
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",wonderware intouch,1.7
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",moxa softcms,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",apple mac os x,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",websense triton ap email,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",woothemes woocommerce,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",magmi magmi,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",avira management console,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",mcafee data loss prevention endpoint,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",manageengine servicedesk plus,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ansible tower,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ansible tower,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",linux linux kernel,7.5
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",symantec workspace streaming,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",symantec data loss prevention,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",symantec endpoint protection manager,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",symantec endpoint protection manager,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",tadaa%21 project tadaa%21,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",room reservations project room reservations,3.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",google chrome,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple iphone os,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apple iphone os,4.3
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",apple iphone os,2.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",debian debian linux,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",inductiveautomation ignition,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ecava integraxor,4.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",inductiveautomation ignition,6.4
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",inductiveautomation ignition,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",inductiveautomation ignition,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",schneider electric wonderware intouch 2014,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",servision hvg400,9.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",schneider electric wonderware intouch 2014,2.1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",schneider electric wonderware intouch 2014,3.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",bestpractical request tracker,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",linux linux kernel,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",clamav clamav,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",fedoraproject fedora,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",huawei quidway s9700,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",hp integrated lights-out 4 firmware,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",wouter verhelst nbd,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",django-markupfield project django-markupfield,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sixapart movabletype,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",wesnoth battle for wesnoth,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",siemens simatic s7-300 cpu,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",canonical ubuntu linux,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",rubyonrails web console,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",adobe air,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",novell opensuse,6.8
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",ibm general parallel file system,4.9
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm general parallel file system,0.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",paloaltonetworks pan-os,4.0
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",xen xen,4.9
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",linux linux kernel,4.7
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm websphere,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ibm java,7.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm general parallel file system,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",ibm websphere commerce,5.0
+"('NETWORK', 'HIGH', 'MULTIPLE_INSTANCES', 'NONE', 'NONE')",canonical ubuntu linux,1.7
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle e-business suite,3.5
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle supply chain products suite,3.6
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",vboxcomm satellite express protocol,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sourceafrica project sourceafrica,4.3
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",zendesk zendesk feedback tab,2.6
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hp operations orchestration,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hp operations orchestration,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",xcloner xcloner,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco web security appliance,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mozilla firefox,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",mozilla firefox,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox esr,6.8
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox,5.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",mozilla firefox,6.4
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'COMPLETE')",microsoft windows,6.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",persian car cms project persian car cms,7.5
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",mozilla firefox,2.6
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",garrettcom magnum 10k firmware,7.2
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",linux linux kernel,4.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",wireshark wireshark,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple iphone os,4.3
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",apple iphone os,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",wvware libwmf,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",wvware libwmf,5.0
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",apple mac os x,4.9
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm websphere commerce,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",tinysrp project tinysrp,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm websphere portal,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apple mac os x,3.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ip communicator,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",devexpress ajax control toolkit,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple mac os x,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",spider contacts project spider contacts,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",securifi almond-2015,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",securifi almond,6.8
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",securifi almond-2015,7.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",securifi almond-2015,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",searchblox searchblox,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe acrobat dc,0.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",services basic authentication project services basic authentication,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",restful web services project restful web services,5.0
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",sms framework project sms framework,2.6
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",adnovum nevisauth,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",cisco telepresence video communication server software,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco prime collaboration,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco data center analytics framework,6.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco virtualization experience client 6000 series firmware,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco email security appliance,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",cisco ios,6.9
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco identity services engine software,5.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",solarwinds storage manager,0.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco telepresence video communication server software,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",siemens siprotec compact,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",open-xchange open-xchange appsuite,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco nexus 4001i,6.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",moodle moodle,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",djangoproject django,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco telepresence video communication server software,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zohocorp manageengine assetexplorer,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",moodle moodle,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",moodle moodle,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",moodle moodle,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",moodle moodle,4.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco nx-os,7.2
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",lenovo system update,8.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco email security appliance,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cisco nexus 4001i,4.6
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco nexus 7000,3.6
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cisco mds 9700,4.6
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco unified meetingplace,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco adaptive security appliance software,6.8
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco adaptive security appliance software,6.1
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",petition project petition,2.1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",docker docker,3.6
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",docker docker,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",foxitsoftware phantompdf,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",foxitsoftware reader,4.3
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",oracle e-business suite,2.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle siebel crm,4.3
+"('NETWORK', 'MEDIUM', 'MULTIPLE_INSTANCES', 'NONE', 'NONE')",oracle mysql,5.7
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",websense v-series appliances,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",canonical ubuntu linux,5.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",websense v-series appliances,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",openstack python-keystoneclient,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle hyperion,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",wpsymposium wp symposium,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",apache subversion,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apache http server,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apache http server,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apache http server,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple safari,6.8
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",sun sunos,1.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle supply chain products suite,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle ilearning,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jdk,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",oracle supply chain products suite,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ibm tivoli storage manager fastback,7.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm db2,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ibm websphere application server,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle fusion middleware,5.5
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft .net framework,9.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",microsoft .net framework,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft silverlight,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft .net framework,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows rt,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows rt,9.3
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft windows rt,1.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",pimcore pimcore,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",ge mds pulsenet,9.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",everest peakhmi,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",djangoproject django,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",php php,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",superwebmailer superwebmailer,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",vmware workstation,6.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",vmware workstation,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",huawei seq analyst,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",huawei seq analyst,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle peoplesoft products,4.3
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",linux linux kernel,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",thekelleys dnsmasq,6.4
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",oracle solaris,1.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle virtualization,6.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",canonical ubuntu linux,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle hyperion,4.0
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle database server,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",oracle database server,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco secure access control system,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco secure access control server,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco wireless lan controller software,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco security manager,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco videoscape distribution suite for internet streaming,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco telepresence te software,7.8
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco wireless lan controller software,6.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple apple tv,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle enterprise manager plugin for database control,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",fortinet fortios,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sprymedia datatables,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",debian debian linux,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",taxonews project taxonews,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",osinet classified ads,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",patterns patterns,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",alfresco alfresco,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",nodeauthor project nodeauthor,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",levelteninteractive content analysis,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",joshics contact form fields,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",video project video,3.5
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",linkit project linkit,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",term merge project term merge,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",debian debian linux,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",x.org xorg-server,3.6
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",quassel-irc quassel,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",google chrome,6.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",google chrome,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",acme mini httpd,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",redhat jboss portal,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",schneider electric pelco ds-nv,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fortinet fortiauthenticator,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",fortinet fortiauthenticator,6.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",moxa vport activex sdk plus,7.5
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple apple tv,5.4
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",honeywell excel web xl 1000c1000 600 i%2fo uukl,0.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco unified ip phone 9951,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",fortinet forticlient,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",fortinet fortios,7.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",fortinet fortios,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",restaurantbiller restaurant biller,7.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple iphone os,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",fortinet fortiauthenticator,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",fortinet fortiauthenticator,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",bluecoat unified agent,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens simatic step 7,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",websense triton ap web,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",picketlink picketlink,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",archmage project archmage,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",xmltooling project xmltooling,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",freeimage project freeimage,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ericsson drutt mobile service delivery platform,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",adminsystems cms project adminsystems cms,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ericsson drutt mobile service delivery platform,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mobile domain project mobile domain,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",redirection project redirection,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",dell asset manager,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",fatfreecrm fat free crm,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",maarch gec%2fged,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",juniper junos,7.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",ibm websphere mq,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",htacg tidy,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm infosphere information server,5.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",novius-os novius os,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",novius-os novius os,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cagintranetworks getsimple cms,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",websense triton ap email,6.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle database server,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",mozilla firefox,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",oracle fusion middleware,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",oracle oracle and sun systems product suite,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle database server,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple mac os x,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",googlesearch project googlesearch,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",apple mac os x,7.2
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm websphere message broker,3.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm tivoli directory server,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ibm domino,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm domino,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ibm websphere mq,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",emc rsa identity management and governance,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",emc atmos,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",emc documentum d2,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",emc documentum content server,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",emc documentum content server,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",emc documentum content server,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",emc documentum taskspace,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",ibs mappro project ibs mappro,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",concrete5 concrete5,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",openstack horizon,3.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",mcafee epo deep command,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",thecartpress thecartpress ecommerce shopping cart,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",fedora pacemaker configuration system,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sap netweaver rfc sdk,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap customer relationship management,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",apple mac os x,9.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",isc bind,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",juniper junos,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",video consultation project video consultation,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",mobile devices c4 obd-ii dongle firmware,9.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",actiontec gt784wn wireless n dsl modem,8.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",actiontec gt784wn wireless n dsl modem,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",invoice project invoice,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm tivoli storage manager fastback,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",dynamic display block project dynamic display block,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",semanticforms project semanticforms,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",emc rsa onestep,7.8
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'NONE')",openssl openssl,2.6
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",quiz project quiz,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",views project views,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",php php,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apache wss4j,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apache cassandra,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apache qpid,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",djangoproject django,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",canonical ubuntu linux,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",djangoproject django,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apache http server,5.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 1013,6.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco firesight system software,6.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco asr 5000 series software,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",pass2pdf project pass2pdf,5.0
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",openvz vzctl,3.6
+"('NETWORK', 'HIGH', 'NONE', 'COMPLETE', 'COMPLETE')",gnu mailman,7.6
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",docker libcontainer,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",gnu libtasn1,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",qlik qlikview,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fortinet fortianalyzer firmware,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",sap enterprise central component,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fortinet fortios,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ektron ektron content management system,5.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",freebsd freebsd,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",emc rsa bsafe ssl-c,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",emc rsa identity management and governance,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",emc sourceone email management,5.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",emc networker,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",emc rsa bsafe ssl-c,7.5
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'NONE')",emc rsa bsafe ssl-c,2.6
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",emc rsa bsafe ssl-c,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",rubyonrails jquery-ujs,5.0
+"('LOCAL', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",redhat enterprise virtualization,3.7
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",redhat openstack,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",emc autostart,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",theforeman foreman,4.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",unzoo unzoo,0.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",unzoo unzoo,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",betster project betster,7.5
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",lenovo system update,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",labsmedia clickheat,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco prime service catalog,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",lenovo thinkserver rd550,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",hp mt41 thin client,7.8
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple iphone os,2.1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple mac os x,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple safari,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",lenovo usb enhanced performance keyboard,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple safari,6.4
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jre,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle jre,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle jdk,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle e-business suite,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jre,6.9
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle fusion middleware,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm db2,8.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm websphere application server,6.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ibm powervc,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm websphere application server,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",moxa eds-408a,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",moxa eds-408a,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'COMPLETE')",moxa eds-408a,8.5
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",endress%2bhauser hart comm dtm,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",registration codes project registration codes,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",3s-smart codesys gateway server,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ubercart discount coupons project ubercart discount coupons,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibc solar danfoss tlx pro%2b,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",resource data management data manager data manager,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft office compatibility pack,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft sharepoint designer,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft excel viewer,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows server 2012,3.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows server 2012,0.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows rt 8.1,6.9
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows rt,7.2
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",openafs openafs,2.1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",openafs openafs,2.1
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",openafs openafs,4.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",haproxy haproxy,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft office compatibility pack,6.9
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",mysql mysql,4.9
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle solaris,2.1
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",oracle solaris,7.2
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",oracle mysql,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",novell suse linux sdk,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle supply chain products suite,6.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft windows,4.6
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",bolt bolt,6.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle health sciences applications,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",oracle solaris,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",web-dorado web-dorado spider video player,5.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 1013,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco telepresence ip gateway,9.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 5700,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 5000,5.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios xe,6.1
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",cisco unified communications manager,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco unity connection,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco unity connection,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco finesse,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apple iphone os,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",insanevisions adaptcms,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apple apple tv,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple iphone os,1.9
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,5.4
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",refbase refbase,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",refbase refbase,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sensiolabs symfony,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hospira lifecare pca3,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",pimcore pimcore,4.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",beckhoff ipc diagnostics,9.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",views project views,4.9
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",views project views,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",newphoria corporation applican,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",node invite project node invite,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",node invite project node invite,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",node invite project node invite,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",amazon aws project amazon aws,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",corner project corner,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",niif shibboleth authentication,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",quizzler project quizzler,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft internet explorer,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft internet explorer,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft edge,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",google chrome,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe acrobat,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe acrobat reader dc,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe acrobat reader,0.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",apple mac os x,6.9
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,4.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple safari,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",aas9 zerocms,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ektron ektron content management system,3.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",siemens ruggedcom win5200,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",dena h20,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",simon tatham putty,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",tcpdump tcpdump,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",tcpdump tcpdump,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",xen xen,1.9
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",debian debian linux,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",boxoft boxoft wav to mp3 converter,7.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",siemens spcanywhere,2.1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",siemens spcanywhere,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",linux linux kernel,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens spcanywhere,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens spcanywhere,6.8
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",siemens simotion scout,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",siemens spcanywhere,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco firepower,6.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",joomla joomla%21,4.3
+"('NETWORK', 'HIGH', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jdk,7.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",oracle jdk,4.3
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",oracle fusion middleware,2.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",oracle fusion middleware,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle database server,6.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle e-business suite,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",kent-web joyful note,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",kent-web clip board,6.4
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",fca uconnect,8.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",solarwinds n-able n-central,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",octobercms october,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",synck graphica mailform pro cgi,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zen-cart.jp zen cart,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",squid-cache squid,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",crear.ne.jp al-mail32,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",iij seil%2fb1,7.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",fedoraproject fedora,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",checkpw project checkpw,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",toshiba service station,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",chaos tool suite project ctools,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",sap mobile platform,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",opsview opsview,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",gnu gnu screen,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",xcloner xcloner,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",iojs io.js,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",openstack glance,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",emc documentum centerstage,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",emc documentum taskspace,5.8
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",sap netweaver,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sap afaria,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",sap netweaver,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",emc documentum taskspace,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",emc isilon onefs,9.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",emc recoverpoint for virtual machines,7.2
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",emc avamar server virtual edition,7.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",piriform ccleaner,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows vista,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft windows vista,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows rt,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft office web apps server,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft sharepoint foundation,9.3
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft windows 8.1,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",dell sonicwall global management system,9.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",sap hana,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",sap hana,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",openafs openafs,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",openafs openafs,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",webservice-dic yoyaku,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",webservice-dic yoyaku,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",seeds acmailer,5.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",lemon-s php simple oekaki,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",welcart welcart,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sysphonic thetis,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",research-artisan research artisan lite,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",lemon-s php gazou bbs plus,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",research-artisan research artisan lite,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",se html5 album audio player project se html5 album audio player,5.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hp hp-ux,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",nextend facebook connect,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fedoraproject fedora,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",zohocorp manageengine netflow analyzer,5.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hp thinpro linux,7.2
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hp webinspect,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm business process manager,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",hp integrated lights-out 3 firmware,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",hp sdn van controller,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",ibm db2,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm business process manager,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe acrobat,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",hp matrix operating environment,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hp matrix operating environment,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",hp nonstop safeguard security,9.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'PARTIAL')",hp sitescope,8.7
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",hp network virtualization,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap sap netweaver application server java,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",alcatel-lucent omniswitch 6860,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",php php,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",canonical ubuntu linux,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",gnu glibc,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",novell opensuse,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",redhat enterprise virtualization manager,6.8
+"('LOCAL', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",canonical ubuntu linux,4.7
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",synology diskstation manager,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle glassfish,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence isdn gw 3241,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence serial gateway,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence ip vcr 3.0,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence mcu software,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence advanced media gateway,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence ip gateway,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence mse 8000 series,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",cisco unified computing system,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",sysaid sysaid,6.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",citrix netscaler gateway firmware,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",wpslideshow powerplay gallery,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sysaid sysaid,5.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",emc isilon onefs,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",emc powerpath virtual appliance,5.0
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens homecontrol for room automation,5.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",emc secure remote services,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",emc rsa validation manager,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",emc documentum xcelerated management system,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",emc rsa registration manager,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",emc rsa registration manager,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",emc rsa registration manager,7.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",google android,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",joomla joomla%21,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 1001,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",newphoria corporation koritore,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco identity services engine software,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mcafee vulnerability manager,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",sysaid sysaid,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",newphoria corporation megaphone music,6.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",linux linux kernel,4.6
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",oracle vm virtualbox,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",oracle database server,9.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",oracle jrockit,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",oracle mysql,7.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jre,7.2
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle jdk,1.9
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle fusion middleware,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle e-business suite,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle supply chain products suite,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle siebel crm,4.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",ibm tivoli storage manager fastback,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ibm websphere portal,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",ibm tivoli storage manager fastback,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm infosphere master data management server,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm websphere portal,3.5
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ibm websphere virtual enterprise,4.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",resource data management data manager data manager,5.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibc solar servemaster tlp%2b,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibc solar servemaster tlp%2b,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows server 2012,7.2
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows server 2008,7.2
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows server 2012,2.1
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows 7,6.9
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",novell suse linux sdk,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",projectsend projectsend,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",web-dorado ecommerce wd,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",vastal phpvid,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",airties rt-210,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",novell suse linux sdk,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco unified meetingplace,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco firesight system software,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",cisco firesight system software,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco secure access control server solution engine,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco unified computing system central software,0.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco unified meetingplace,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco unified meetingplace,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco unified communications manager,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco ios,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 1000,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",google v8,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",e107 e107,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",brother mfc-j4410dw,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",web-dorado photo gallery,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",crea8social crea8social,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",croogo croogo,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",phpkit phpkit,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",context project context,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",f5 big-ip application security manager,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",services project services,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows media player,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",insanevisions adaptcms,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",insanevisions adaptcms,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",refbase refbase,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",refbase refbase,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",refbase refbase,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",synametrics xeams,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",taxonomy path project taxonomy path,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",commerce balanced payments project commerce balanced payments,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",taxonomy tools project taxonomy tools,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",node access product project node access product,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",insite node basket,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",funnymonkey feature set,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",insite node basket,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",insite node basket,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",public download count project public download count,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",balanced commerce balanced payments,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",mcafee email gateway,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",mcafee data loss prevention endpoint,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",canonical ubuntu linux,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",rhodecode rhodecode enterprise,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",image metadata cruncher project image metadata cruncher,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",mcafee data loss prevention endpoint,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe air,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",phpbb phpbb,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",phpbb phpbb,6.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple safari,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",mybb mybb,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",hp matrix operating environment,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",novell opensuse,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco nexus 3548,5.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows rt 8.1,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft office,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle peoplesoft products,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle enterprise manager database control,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle mysql,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",tips and tricks hq all in one wordpress security and firewall,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",tips and tricks hq all in one wordpress security and firewall,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",extplorer extplorer,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",bestwebsoft google captcha,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",maroyaka simple board project maroyaka simple board,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",maroyaka image album project maroyaka image album,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",maroyaka relay novel project maroyaka relay novel,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",openldap openldap,5.0
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",current search links project current search links,2.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",futomi mp form mail cgi,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",open graph importer project open graph importer,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco unified communications manager im and presence service,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle fusion middleware,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",piwigo piwigo,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",piwigo piwigo,6.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",infoblox netmri,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",acobot live chat %26 contact form project acobot live chat %26 contact form,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",free-counter free counter,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows rt,5.6
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft word,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",bedita bedita,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",moodle moodle,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",panasonic security api activex sdk,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",garrettcom magnum 6k firmware,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",garrettcom magnum 10k firmware,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",schneider-electic sage 3030 magnum rtu,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",moodle moodle,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cacti cacti,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",decisions project decisions,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",medhabidotcom mdc private message,3.5
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",mass contact project mass contact,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",moodle moodle,5.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",fortinet forticlient,7.2
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",gns3 gns3,7.2
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,4.6
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",linux linux kernel,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",asus tm-1900,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",lemon-s php simple oekaki bbs,4.3
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens ruggedcom rugged operating system,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cgi rescue blobee,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple mac os,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zohocorp manageengine netflow analyzer,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",zohocorp manageengine netflow analyzer,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",droidwareuk explorer%2b file manager,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",namshi namshi%2fjose,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",novell suse linux enterprise server,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",services project services,6.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",display suite project display suite,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",civicrm civicrm private report,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",user import project user import,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",node template project node template,6.8
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",keyword research project keyword research,5.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hybridauth social login project hybridauth social login,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",rubyonrails ruby on rails,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",libmspack project libmspack,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",chaos tool suite project ctools,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",citrix netscaler gateway firmware,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm api management,5.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm content collector,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ibm spss statistics,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",jsp%2fmysql administrador web project jsp%2fmysql administrador web,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hp keyview,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap afaria,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sap netweaver,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",sap clinical task tracker,6.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",sap netweaver,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",sap netweaver enterprise portal,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",sap mobile platform,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hancom hanword viewer 2007,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",wireshark wireshark,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",adobe acrobat,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",wireshark wireshark,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",sap sql anywhere,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fli4l fli4l,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",arcserve arcserve unified data protection,7.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",arcserve arcserve unified data protection,9.4
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",jsp%2fmysql administrador web project jsp%2fmysql administrador web,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",landing pages project landing pages,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",landing pages project landing pages,6.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",dell netvault backup,0.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",gigpress gigpress,6.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",wavelink connectpro,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",newstatpress project newstatpress,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",newstatpress project newstatpress,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hp version control repository manager,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",hp version control repository manager,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",piwigo piwigo,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",hp version control repository manager,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",borland accurev,9.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple apple tv,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",emc documentum taskspace,3.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",emc documentum thumbnail server,8.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",websitebaker websitebaker,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",novell opensuse,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",samsung ipolis device manager,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",adb p.dga4001n,9.4
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",arj software arj archiver,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cs-cart cs-cart,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",hp t5740e,9.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle fusion middleware,4.0
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",sun sunos,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle e-business suite,6.0
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle siebel crm,4.6
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",oracle retail applications xstore,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",arubanetworks clearpass policy manager,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",atlassian hipchat,6.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",impero impero education pro,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",bisonware bisonftp,7.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",konicaminolta ftp utility,7.8
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",novell opensuse,2.1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple iphone os,3.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple mac os x,4.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",oracle javafx,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle mysql,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle jdk,5.0
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",structured dynamics open semantic framework,5.1
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ibm powervc,4.6
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm maximo asset management,2.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ibm websphere mq light,7.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ibm tivoli directory server,4.6
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",wavelink terminal emulation,0.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",mcafee threat intelligence exchange,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",debian debian linux,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco catalyst 6513-e,6.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco telepresence tc software,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",cisco firesight system software,5.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco telepresence video communication server software,7.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco mds 9000 nx-os,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco application and content networking system software,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",linux linux kernel,2.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco network convergence system 6008,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",novell zenworks configuration management,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",bedita bedita,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mantisbt mantisbt,5.8
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",vmware fusion,3.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",vmware workstation,3.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",siemens simatic s7 1200 cpu,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens scalance x201-3p irt pro,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft internet explorer,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",yiiframework yiiframework,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",proftpd proftpd,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ajax timeline project ajax timeline,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",fibonacciorange wedeal,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",facebook album fetcher project facebook album fetcher,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",path breadcrumbs project path breadcrumbs,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",theforeman foreman,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",topline systems opportunity form,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",mongodb mongodb,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",haxx curl,5.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",siemens simatic step 7,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",adminsystems cms project adminsystems cms,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",cisco ios,4.3
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios,4.9
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco unified ip phone 9951,4.6
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco unified ip phone 9951,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco unified ip phone 9951,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",qualiteam x-cart,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",jakweb gecko cms,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",jakweb gecko cms,6.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",puppetlabs facter,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",elasticsearch elasticsearch,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",jakweb gecko cms,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence tc software,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",mediawiki mediawiki,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sefrengo sefrengo,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mediawiki mediawiki,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",widgets project widgets,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",timedmediahandler project timedmediahandler,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco unified intelligence center,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 5000 series software,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco webex meetings server,6.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",cisco nexus 93128tx,4.9
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",oracle jdk,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",siemens sicam mic,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",thecartpress thecartpress ecommerce shopping cart,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm security qradar incident forensics,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",audiosharescript audioshare,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",oracle virtualization sun ray,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",audiosharescript audioshare,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",newphoria corporation auction camera,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ibm java,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",canon pixma mg7500 series inkjet printer,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ntt-bp japan connected-free wi-fi,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",newphoria corporation 1.1,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",newphoria corporation reversi,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",digium asterisk,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",epignosis efront,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",chaos tool suite project ctools,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",webshophun webshop hun,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",arubanetworks clearpass policy manager,9.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",arubanetworks clearpass policy manager,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",thecartpress thecartpress ecommerce shopping cart,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",profile2 privacy project profile2 privacy,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",blue coat ssl visibility appliance sv2800,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cfdbplugin contact form db,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",visualware myconnection server,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",xen xen,2.1
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",debian debian linux,2.6
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",d-link dcs-931l,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",d-link dcs-931l,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 9922,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft xml core services,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",elasticsearch kibana,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,5.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",sap hana extend application services,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",synology photo station,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mailbird mailbird,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",easyio easyio-30p-sf,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",synology diskstation manager,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",invisionpower invision power board,7.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",invisionpower invision power board,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cyberoam cr500ing-xp,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",open-xchange ox guard open-xchange ox guard,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",redhat openshift origin,4.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sap sybase unwired platform online data proxy,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft office web apps,9.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",chiyutw bf-630w,7.5
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",boosted boosted boards,8.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco unified computing system central software,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",igreks milkystep professional oem,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",igreks milkystep professional oem,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",igreks milkystep professional oem,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",igreks milkystep professional oem,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",igreks milkystep light,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",f21 jwt,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",open explorer beta project open explorer beta,6.4
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ubercart webform checkout pane project ubercart webform checkout pane,3.5
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",imagefield info project imagefield info,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",entitybulkdelete project entitybulkdelete,4.3
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",password policy project password policy,2.6
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",linear case project linear case,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",invoice project invoice,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",zohocorp manageengine netflow analyzer,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",igreks milkystep light,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",libmspack project libmspack,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",mozilla firefox esr,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",mozilla firefox,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",canonical ubuntu linux,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",mozilla firefox esr,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",novell opensuse,0.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm domino,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",ibm bluemix,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",ibm websphere mq internet pass thru,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",hp version control repository manager,6.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm security siteprotector system,5.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm security siteprotector system,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm websphere mq,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm websphere application server,5.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm websphere application server,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco web security virtual appliance,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",google android,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",portfolio project portfolio,6.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",libvdpau project libvdpau,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ippusbxd project ippusbxd,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens simatic hmi multi panels,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",siemens wincc,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",typo3 neos,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",sap afaria,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ca spectrum,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",simple ads manager project simple ads manager,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",citrix netscaler gateway firmware,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",ca spectrum,9.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",fortinet forticlient,2.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios xe,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",drupal drupal,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",emc documentum d2,3.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",mozilla thunderbird,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",emc rsa archer egrc,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",emc secure remote services,5.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",emc document sciences xpression,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",emc rsa web threat detection,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",emc unified infrastructure manager%2fprovisioning,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",emc secure remote services,9.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",emc unisphere,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm general parallel file system,3.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm tivoli storage manager fastback,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",ibm optim workload replay,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ibm optim workload replay,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",oracle mysql,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle jrockit,5.4
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle siebel crm,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",oracle fusion middleware,4.3
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",xen xen,3.6
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple itunes,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",yodobashi yodobashi,6.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",novell opensuse,4.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",linux linux kernel,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",mozilla firefox esr,9.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm infosphere master data management,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",ibm websphere mq,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm tivoli federated identity manager,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",ibm business process manager,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ibm websphere datapower xc10 appliance firmware,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",drupal drupal,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",drupal drupal,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm security access manager for web 8.0 firmware,5.0
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",xen xen,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",pligg pligg cms,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft windows,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows 10,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",apple apple tv,7.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",reflex gallery project reflex gallery,7.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ceph ceph-deploy,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",owncloud owncloud,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",kogmbh webodf,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apache camel,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco unified meetingplace,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco adaptive security appliance software,4.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco anyconnect secure mobility client,7.2
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco edge 340,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ons 15454 system software,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco wireless lan controller software,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'COMPLETE')",cisco unified computing system director,9.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco prime network control system,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios xr software,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",zohocorp manageengine eventlog analyzer,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ghozylab gallery - photo albums - portfolio,3.5
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows rt,6.9
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows 7,7.2
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",microsoft sharepoint server,6.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios,7.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'NONE')",hp universal configuration management database,4.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco application control engine 4700,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",wp smiley project wp smiley,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",actian matrix,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft windows vista,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",microsoft sharepoint foundation,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",microsoft sharepoint server,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco carrier routing system,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco unity connection,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft office,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft windows server 2012,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple xcode,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",basware banking,5.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",beasts vsftpd,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",inetc project inetc,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",freebsd freebsd,7.8
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apple mac os x,1.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",canonical ubuntu linux,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",arubanetworks clearpass policy manager,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",arubanetworks arubaos,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",blubrry powerpress podcasting,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",banner effect header project banner effect header,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",geo mashup project geo mashup,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",privoxy privoxy,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",basware banking,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",igniterealtime openfire,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",igniterealtime openfire,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",libunwind project libunwind,3.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",kernel linux-pam,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",theforeman foreman,6.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",haxx libcurl,6.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",haxx libcurl,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",debian debian linux,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",drupal drupal,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",dream-multimedia-tv dreambox dm500-s,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",apphp hotel site,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ntt-bp japan connected-free wi-fi,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",freebit elphonebtnv6 activex control,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",opendocman opendocman,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",basware banking,4.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",net-snmp net-snmp,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",wordpress wordpress,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",debian debian linux,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fortinet forticlient,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",studio.gd gd infinite scroll,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",centreon centreon,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",centreon centreon,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",studio.gd gd infinite scroll,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",dotnetnuke dotnetnuke,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",plainblack webgui,4.3
+"('LOCAL', 'HIGH', 'NONE', 'NONE', 'NONE')",apple iphone os,4.0
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",apple apple tv,1.9
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",d-link dir-645,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mcafee mcafee agent,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",d-link dap-1320,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sierra wireless sierra wireless aircard 763s,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",zhone technologies gpon 2520,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",jabberd2 jabberd2,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",libidn project libidn,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",websense content gateway,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",garrettcom magnum 10k firmware,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",symphony-cms symphony cms,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",schneider-electric wonderware system platform 2014,6.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",xceedium xsuite,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",xceedium xsuite,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",tibco slingshot,4.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sinapsi esolar light,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",redcarpet project redcarpet,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens compas,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",apple mac os x,8.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco unified computing system,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",joomla joomla%21,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mediawiki checkuser,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",mediawiki mediawiki,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apache sling servlets post,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wotlab community gallery,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ocf sxf common library,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zenphoto zenphoto,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",adobe acrobat,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",adobe acrobat reader dc,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",jammer project jammer,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",hp centralview fraud risk management,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",textangular textangular,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",ibm security siteprotector system,9.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm security siteprotector system,6.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hp matrix operating environment,7.2
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",field display label project field display label,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm security siteprotector system,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm security siteprotector system,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",log watcher project log watcher,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",wftpserver wing ftp server,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",tadaa%21 project tadaa%21,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",wishlist project wishlist,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",citrix netscaler,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",citrix netscaler,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",batch jobs project batch jobs,6.8
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",debian debian linux,1.9
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",das watchdog project das watchdog,7.2
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",clutter project clutter,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco firepower extensible operating system,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple quicktime,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco webex meetings server,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco prime collaboration,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco videoscape policy resource manager,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",google android,9.3
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",microsoft sql server,7.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",magnifica webscripts anima gallery,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",f5 big-ip wan optimization manager,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ipsec-tools ipsec-tools,7.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle siebel crm,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle commerce platform,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",x2engine x2crm,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco asyncos,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm infosphere biginsights,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm business process manager,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",ibm websphere application server,9.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm websphere portal,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",openstack image registry and delivery service %28glance%29,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco telepresence video communication server,5.0
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco adaptive security appliance software,5.7
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sun sunos,5.0
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle vm virtualbox,4.4
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle database server,4.9
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle database server,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle fusion middleware,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",x2engine x2crm,7.5
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple iphone os,3.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco adaptive security appliance software,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple xcode,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mybb mybb,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",microsoft windows server 2008,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",belkin n300 dual-band wi-fi range extender,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apple mac os x,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple mac os x,4.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple mac os x,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm tivoli directory server,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm case manager,3.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",oracle oracle and sun systems product suite,4.9
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",canonical ubuntu linux,6.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm websphere datapower xc10 appliance firmware,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",ibm tivoli directory server,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm tivoli directory server,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",redhat slapi-nis,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",gnu gnutls,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",openssl openssl,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",xen xen,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",fork-cms fork cms,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft lync server,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows 10,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",microsoft windows server 2012,4.0
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft windows 10,1.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft skype for business server,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",juniper junos,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",juniper junos,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",juniper srx5800,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",juniper srx5800,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco headend digital broadband delivery system,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco unified meetingplace,4.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco wireless lan controller,6.1
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco anyconnect secure mobility client,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco finesse,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco unified web and e-mail interaction manager,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco telepresence video communication server,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ip phone 7861,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco hosted collaboration solution,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco unified computing system,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco ios xe,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco webex meetings server,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco unified communications domain manager,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",zohocorp manageengine password manager pro,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",youtube embed project youtube embed,3.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ubuntu vivid,7.2
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",solarwinds firewall security manager,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap rfc library,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",fortinet single sign on,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",cisco ios xe,9.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco web security virtual appliance,5.0
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco application visibility and control,5.7
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",s9y serendipity,3.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco telepresence server on virtual machine,7.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",levelten interactive spotlight,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",milw0rm project milw0rm clone script,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft edge,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",webform prepopulate block project webform prepopulate block,3.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco telepresence mcu 4500 series software,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco telepresence management suite,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",cisco hosted collaboration solution,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",libpng libpng,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",pearson proctorcache,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",openinfosecfoundation suricata,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",searchblox searchblox,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",network vision intravue,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",inductiveautomation ignition,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",scadaengine bacnet opc server,9.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",elipse e3,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apple safari,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apple itunes,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",magento magento,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",quick edit project quick edit,3.5
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",search api autocomplete project search api autocomplete,2.1
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",path breadcrumbs project path breadcrumbs,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",arubanetworks clearpass policy manager,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",web-dorado photo gallery,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",slimframework slim,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",entity api project entity api,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",web-dorado spider calendar,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wp media cleaner project wp media cleaner,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",clamav clamav,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",wonderplugin audio player,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",beehive forum beehive forum,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",dokuwiki dokuwiki,6.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows server 2003,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",artifex afpl ghostscript,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple itunes,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",google email,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",yuba u5cms,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",yuba u5cms,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",yuba u5cms,6.4
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",canonical ubuntu linux,4.6
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",yuba u5cms,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",elegant themes divi,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",adobe acrobat reader,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",adobe acrobat dc,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple safari,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",apple iphone os,6.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",magmi magmi,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",dlguard dlguard,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apptha wordpress video gallery,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",dlguard dlguard,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ptc creo view,7.5
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",the extensible catalog drupal toolkit project the extensible catalog drupal toolkit,5.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",linuxfoundation cups-filters,7.5
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",telerik analytics monitor library,6.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap ase database platform,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",hospira lifecare pca3,7.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",akronymmanager project akronymmanager,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",timedoctor timedoctor,9.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hospira lifecare pca5,0.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",aftab tickfa,6.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hospira lifecare pca3,4.6
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",xzeres 442sr,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",rle nova-wind turbine hmi,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",phpmyadmin phpmyadmin,5.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",qemu qemu,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",watchguard xcs,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",redhat openshift,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",debian debian linux,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",picketlink picketlink,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco unified web and e-mail interaction manager,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe acrobat reader,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",open-emr openemr,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cacti cacti,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco telepresence system software ix,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm rational quality manager,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm rational engineering lifecycle manager,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm leads,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",bittorrent bittorrent,9.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm domino,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm leads,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ibm tivoli storage manager fastback,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",ibm integration bus,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cubecart cubecart,6.8
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco 1000v,6.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",antlabs inngate ig 3100,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",honeywell tuxedo touch,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",citrix netscaler,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",goautodial goadmin ce,7.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",goautodial goadmin ce,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",honeywell tuxedo touch,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",bittorrent sync,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco webex node for mcs,5.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",google android,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco prime central for hosted collaboration solution assurance,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco ios xe,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco unified web and e-mail interaction manager,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",cisco unified web and e-mail interaction manager,5.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",novalnet novalnet payment module ubercart-,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",openbsd openssh,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle siebel crm,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",oracle fusion middleware,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle siebel crm,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle siebel crm,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",xen xen,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sysaid sysaid,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",fortinet fortimail,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",nscripter project nscripter,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",neojapan desknet neo,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sysaid sysaid,8.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",oracle supply chain products suite,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",winace unace,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",netapp oncommand workflow automation,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",apple iphone os,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe acrobat reader dc,5.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,4.8
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",oracle mysql,2.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm infosphere master data management,4.0
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm domino,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco identity services engine software,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",openssl openssl,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",redhat jboss operations network,9.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",digia qt,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",redhat mod cluster,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",open source point of sale project open source point of sale,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco identity services engine software,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco secure access control server,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",drupalcommerce commerce commonwealth,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",workbench email project workbench email,3.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows 10,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cp reservation calender project cp reservation calender,7.5
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",structured dynamics open semantic framework,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",mcafee mcafee agent,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",rpcbind project rpcbind,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft excel viewer,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",mcafee advanced threat defense,4.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",kcodes netusb,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",tp-link tl-wdr3500 %281.0%29,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",oracle jdk,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco hosted collaboration solution,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco adaptive security appliance software,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco headend system release,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco headend system release,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco secure access control server,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco headend system release,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",juniper qfx5100,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",s9y serendipity,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco unified communications domain manager,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco webex meetings server,9.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco 2900 integrated service router,7.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco desktop collaboration experience dx650,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco mds 9000,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco secure access control system,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",cisco prime service catalog,7.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",novell suse linux enterprise server,0.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco nexus 9372tx,4.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",yoast wordpress seo,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",yoast wordpress seo,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",pfsense pfsense,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",pfsense pfsense,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",canonical ubuntu linux,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",coppermine-gallery coppermine photo gallery,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",phpipam phpipam,4.3
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft windows rt 8.1,2.1
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'NONE')",microsoft windows rt 8.1,4.7
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco webex meetings server,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cisco ios,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco ids 4210,7.1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco ios xe,5.7
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco c200 m1,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",panasonic security api activex sdk,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",serve-static project serve-static,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft exchange server,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apereo central authentication service,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",pixabay images project pixabay images,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",freereprintables articlefr,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",catbot project catbot,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",pixabay images project pixabay images,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",two pilots exif pilot,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ajsquare zeuscart,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sequelize project sequelize,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ansible tower,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ajsquare zeuscart,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",zeuscart zeuscart,7.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows 2003 server,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",openstack horizon,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco ios,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",microsoft sql server,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",microsoft sql server,8.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco telepresence ix5200,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",solarwinds server and application monitor,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",citrix netscaler gateway firmware,9.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",endian firewall endian firewall,0.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",siemens simatic wincc sm%40rtclient lite,2.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",komodia redirector sdk,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",etouch samepage,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",etouch samepage,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sap hana,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",sap businessobjects edge,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sap businessobjects edge,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",komodia redirector sdk,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",searchblox searchblox,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",searchblox searchblox,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",sap rfc library,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",barracuda web filter,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",barracuda web filter,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",wt directory project wt directory,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",be user log project be user log,3.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",apple mac os x,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",coppermine-gallery coppermine photo gallery,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",coppermine-gallery coppermine photo gallery,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",coppermine-gallery coppermine photo gallery,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",snorby snorby,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",frontend user upload project frontend user upload,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",job fair project job fair,7.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",swisscom centro grande %28adb%29 dsl,0.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",sis windows vga display manager,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",eventsentry eventsentry,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",polarssl polarssl,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",fedora pacemaker configuration system,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",libav libav,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",qtranslate project qtranslate,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ibm websphere extreme scale,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",blackberry blackberry link,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",watchdog aggregator project watchdog aggregator,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ispconfig ispconfig,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ispconfig ispconfig,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",stageshow project stageshow,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco prime infrastructure,6.8
+"('LOCAL', 'MEDIUM', 'MULTIPLE_INSTANCES', 'PARTIAL', 'NONE')",gemalto safenet luna g5,1.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mediawiki mediawiki,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm change and configuration management database,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm change and configuration management database,3.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",arduino json project arduino json,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",limesurvey limesurvey,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",datalex airline booking software,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mcafee epolicy orchestrator,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",blue coat ssl visibility appliance sv800,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",blue coat ssl visibility appliance sv800,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",antlabs inngate ig 3.01 e,4.3
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",apple mac os x,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",blue coat ssl visibility appliance sv3800,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",php php,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",rubygems rubygems,4.3
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",migrate project migrate,2.6
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",niif shibboleth authentication,2.1
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",squid-cache squid,2.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",xml-libxml project xml libxml,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",lemon-s php twit bbs,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",content rating project content rating,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",elasticsearch elasticsearch,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",content rating project content rating,7.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm systems director,7.2
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ocportal ocportal,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",spider contacts project spider contacts,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",genixcms genixcms,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",genixcms genixcms,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",content rating extbase project content rating extbase,4.3
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",oracle jrockit,2.6
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",debian debian linux,5.8
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",oracle jdk,2.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",administration views project administration views,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",content rating extbase project content rating extbase,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",debian debian linux,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",microsoft windows 10,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft live meeting console,9.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",fieldable panels panes project fieldable panels panes,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",siemens ruggedcom rugged operating system on linux ii,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco unified communications manager,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",storage api project storage api,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",inlinks project inlinks,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco hosted collaboration solution,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",redhat docker,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",mozilla firefox os,1.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",php php,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",codelogic freichat,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",phpliteadmin project phpliteadmin,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",mozilla firefox,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",arabportal arab portal,7.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft windows 10,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft word web apps server,9.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",nvidia gpu driver r346,7.2
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",gsm sim card editor,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",holding pattern project holding pattern,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",unit4 teta web,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",prestashop prestashop,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",osticket osticket,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",infinite automation systems mango automation,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",basware banking,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",pixabay images project pixabay images,4.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'NONE')",webmin webmin,4.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ferretcms project ferretcms,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",pixabay images project pixabay images,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ferretcms project ferretcms,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ferretcms project ferretcms,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",marked project marked,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",hybridauth social login project hybridauth social login,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",basware banking,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",libreswan libreswan,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",libmimedir project libmimedir,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",restful project restful,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",lighttpd lighttpd,5.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",redhat thermostat,2.1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",fuse project fuse,3.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",h5ai project h5ai,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apache flex,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft office 2013,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft exchange server,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",xen xen,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apache openoffice,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",mozilla thunderbird,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",mozilla firefox esr,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",fancyfon famoc,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",siphon siphone enterprise pbx,7.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",sma solar technology ag webbox firmware,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",x2engine x2crm,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",polycom realpresence cloudaxis suite,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",piwigo piwigo,6.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",fancyfon famoc,7.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",softsphere defensewall personal firewall,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",redaxscript redaxscript,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cybernetikz easy social icons,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",avatar uploader project avatar uploader,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",panopoly magic project panopoly magic,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ilch cms,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",unit4 prosoft hrms,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",crossslide jquery project crossslide jquery,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",term queue project term queue,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",isc bind,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sefrengo sefrengo,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",dell sonicwall secure remote access firmware,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",dounokouno transmitmail,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",dounokouno transmitmail,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",kozos easyctf,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",kozos easyctf,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",rakus maildealer,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",kozos easyctf,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",kajona kajona,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cacti cacti,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",ids ids rtu 850c,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",faq-frequenty asked questions project faq-frequently asked questions,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",developer log project developer log,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",store locator project store locator,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",smoelenboek project smoelenboek,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",easy2map project easy2map,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",innominate mguard firmware,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",dolibarr dolibarr,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",getusedtoit wp slimstat,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",chromium chromium,7.5
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",pxz project pxz,2.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",standards based linux instrumentation sblim-sfcb,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",websense triton ap data,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",gnu patch,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",gnu cpio,1.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",pax project pax,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",openstack image registry and delivery service %28glance%29,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",kgb project kgb,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",pax project pax,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",zlib pigz,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",xiph vorbis-tools,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",alcatel-lucent omniswitch 6250,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",squid-cache squid,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ibm powervc,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm powervc,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm websphere commerce,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ibm rational doors next generation,7.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm rational quality manager,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",documentcloud navis documentcloud,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hp loadrunner,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",siemens simatic s7 1200 cpu,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",dell netvault backup,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",symantec web gateway,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",symantec web gateway,8.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe acrobat dc,5.0
+"('NETWORK', 'MEDIUM', 'MULTIPLE_INSTANCES', 'COMPLETE', 'COMPLETE')",symantec web gateway,7.9
+"('ADJACENT_NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hp capture and route software,2.7
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft windows,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",alcatel-lucent cellpipe 7130 rg 5ae.m2013 hol,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",alcatel-lucent cellpipe 7130 router,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",grandstream gxv3611 hd,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",retrospect retrospect client,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",kaseya virtual system administrator,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",kaseya virtual system administrator,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",vestacp vesta control panel,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",avigilon avigilon control center,7.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",ghisler total commander,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",google android,6.8
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",samsung sbeam,3.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft windows vista,3.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows vista,8.3
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",qemu qemu,1.9
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",samsung galaxy s5,7.9
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft windows rt 8.1,1.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",orchardproject orchard,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'COMPLETE')",microsoft windows rt 8.1,6.1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft windows server 2012,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",iodata wn-g54%2fr2,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",guide-park bbs x102,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",rakuto rktsns2,4.3
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",type74 ed,2.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",adobe connect,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",adobe coldfusion,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft windows,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",entityform block project entityform block,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",php kobo photo gallery cms free,4.3
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",rest-client project rest-client,2.1
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",sap afaria,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",alienvault unified security management,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",dell sonicwall sonicos,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco nexus 7700,6.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",php kobo photo gallery cms free,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco content security management appliance,5.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",thycotic secret server,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco adaptive security appliance software,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",pivotal software redis,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",eliacom enhanced sql portal,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",web links project web links,3.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",magento magento,5.0
+"('ADJACENT_NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",redhat openstack,7.7
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",mobile sliding menu project mobile sliding menu,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco prime infrastructure,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",webform matrix component project webform matrix component,3.5
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",cisco telepresence video communication server software,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",juniper mag pcs360,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle enterprise manager grid control,5.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle supply chain products suite,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",navigate project navigate,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",canonical ubuntu linux,3.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",freebsd freebsd,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",shipwire api project shipwire api,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",pentaho business analytics,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ciphercoin wp limit login attempts,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",securemoz securemoz security audit,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",tracking code project tracking code,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",bestpractical request tracker,4.3
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",structured dynamics open semantic framework,2.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft exchange server,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows 8.1,9.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft windows,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apache struts,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apache jackrabbit,6.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",microsoft windows server 2008,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft biztalk server,4.3
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",microsoft windows rt 8.1,2.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft windows rt 8.1,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows server 2008,9.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco telepresence conductor,7.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco telepresence conductor,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco application networking manager,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco network analysis module 2304,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco intrusion prevention system,7.1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",cisco nexus 5020,7.9
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco ios,5.0
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'NONE')",isc bind,5.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",arubanetworks instant access point,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap netweaver j2ee engine,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",campaign monitor project campaign monitor,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",mozilla firefox,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence server software,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",dulwich project dulwich,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap netweaver,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mysql-lite-administrator project mysql-lite-administrator,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",paypal currency converter basic for woocommerce project paypal currency converter basic for woocommerce,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",silverstripe silverstripe,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",silverstripe silverstripe,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",zohocorp manageengine assetexplorer,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap mobile platform,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",h-fj mt-phpincgi,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",webgateinc edvr manager,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",webgate webgate embedded standard protocol sdk,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",webgateinc winrds,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",agilent technologies feature extraction,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",webgateinc webeyeaudio,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sympies wordpress survey and poll,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apache mod-gnutls,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",philippine long distance telephone kasda kw58293,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",philippine long distance telephone speedsurf 504an,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",philippine long distance telephone kasda kw58293,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",impero impero education pro,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",adobe acrobat reader dc,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",semperfiwebdesign all in one seo pack,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hidemaru editor,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",nishishi fumy teachers schedule board,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",flashy project flashy,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",lhaplus lhaplus,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",lhaplus lhaplus,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",bblog project bblog,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",t1utils project t1utils,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",parityrate roomcloud,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",phpmyadmin phpmyadmin,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",phpmyadmin phpmyadmin,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",ruby-lang ruby,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",indusoft web studio,7.5
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox,4.4
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ansibleworks ansible,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",canonical ubuntu linux,6.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",corel wordperfect,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apple mac os,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",pacemaker%2fcorosync configuration system project pacemaker%2fcorosync configuration system,8.5
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",canonical ubuntu linux,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",websense v-series appliances,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",haxx libcurl,7.5
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",mozilla firefox os,3.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",freereprintables articlefr,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",novell opensuse,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft windows,3.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla firefox os,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",openstack kilo,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",phpwind phpwind,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",phpwind phpwind,5.8
+"('LOCAL', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",ibm rational doors next generation,3.7
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm rational team concert,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm rational doors next generation,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",ibm leads,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",geddyjs geddy,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",symantec deployment solution,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",bittorrent bootstrap-dht,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",chiyutw bf-660c,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",chiyu bf-660c,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",trend micro deep discovery inspector,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",trend micro deep discovery inspector,5.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco webex meeting center,6.4
+"('LOCAL', 'HIGH', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",hp centralview credit risk control,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mcafee epolicy orchestrator,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",tibco messaging appliance,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",tibco spotfire analytics platform for aws,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",linux linux kernel,8.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",linux linux kernel,9.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle jdk,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows server 2008,0.0
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft windows vista,1.9
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",microsoft windows rt 8.1,4.7
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft virtual machine manager,6.9
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",digium certified asterisk,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",mylittleforum my little forum,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",asus rt-n10%2bd1,4.3
+"('LOCAL', 'HIGH', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",hp centralview revenue leakage control,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",easing slider easing slider,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",hp version control repository manager,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",websense triton ap web,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",linux linux kernel,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",cisco telepresence video communication server software,5.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco telepresence video communication server software,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco telepresence video communication server software,5.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle peoplesoft products,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",oracle javafx,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle database server,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle fusion middleware,6.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle jdk,5.8
+"('LOCAL', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle solaris,3.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",oracle e-business suite,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",oracle commerce platform,6.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle database server,5.5
+"('LOCAL', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",oracle e-business suite application management pack,1.2
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",novell opensuse,1.9
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",fedoraproject fedora,4.6
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",sierrawireless airlink ls300,0.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apache subversion,5.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",dell optiplex 990,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",conntrack-tools project conntrack-tools,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",mcafee advanced threat defense,5.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",microsoft windows,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",wpmembership wpmembership,6.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple xcode,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",linux linux kernel,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",netiq security solutions for iseries,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",google android,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",palo alto networks traps,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",freeipa freeipa,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",tuxfamily chrony,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",debian debian linux,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",hotspotexpress hotex billing manager,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",mcafee enterprise security manager%2freceiver,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",twitter project twitter,3.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco ios,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco content services switch 11500,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",cisco prime data center network manager,7.8
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'COMPLETE')",cisco anyconnect secure mobility client,6.6
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco anyconnect secure mobility client,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco telepresence server software,7.2
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle supply chain products suite,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle retail applications,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'COMPLETE')",oracle fusion middleware,7.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",siemens wincc,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",siemens simatic step 7,4.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",siemens ruggedcom win5200,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft powerpoint viewer,9.3
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",microsoft windows rt,1.9
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",microsoft vbscript,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",videolan vlc media player,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wpml wpml,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",wpml wpml,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco anyconnect secure mobility client,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco content security management appliance,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft active directory federation services,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe livecycle data services,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla thunderbird,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",google android,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla thunderbird,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",google android,8.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",f5 big-iq adc,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ibm websphere portal,6.4
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",simple subscription project simple subscription,3.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ibm websphere application server,0.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",certify project certify,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",blue coat malware analysis appliance,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ninjaforms ninja forms,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",bomgar remote support,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",sharelatex sharelatex,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",sharelatex sharelatex,3.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",antlabs inngate ig 3.10 g,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ektron ektron content management system,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",servision hvg400,0.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",commerce ogone project commerce ogone,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",samba ppp,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",blue coat malware analysis appliance,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",huawei e587 mobile wifi,9.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",huawei e355s mobile wifi,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",trick question project trick question,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",openbsd openssh,8.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",f5 big-iq adc,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",f5 big-ip protocol security module,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",google chrome,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hp intelligent provisioning,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",hp system management homepage,6.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hp operations manager i,0.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hp arcsight logger,4.0
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",hp operations manager i,4.4
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",openstack glance,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",intelliants subrion cms,6.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apache activemq,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm maximo anywhere,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",church admin project church admin,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wpbeginner floating social bar,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",nibbleblog nibbleblog,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",j2store j2store,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",creative-solutions contact form generator,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",teiko farol,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",s9y serendipity,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",s9y serendipity,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cygnux syspass,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco nx-os,9.0
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",google android,7.2
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",feedwordpress project feedwordpress,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",encrypted contact form project encrypted contact form,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",emc rsa archer grc,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",emc rsa archer grc,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",valve steam,5.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",emc rsa archer grc,3.5
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",microsoft windows vista,4.7
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla bugzilla,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",mozilla firefox os,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",canonical ubuntu linux,9.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe air sdk %26 compiler,0.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",wpml wpml,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",foxitsoftware phantompdf,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",airties air 6372,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",phpliteadmin project phpliteadmin,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco prime collaboration assurance,9.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco prime collaboration assurance,8.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",cisco prime collaboration provisioning,9.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco nexus 9372tx,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco firesight system software,6.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco telepresence video communication server software,6.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",cisco edge bluebird operating system,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",fiverrscript fiverrscript,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",htacg tidy,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle supply chain products suite,4.9
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle fusion middleware,1.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",oracle commerce guided search and experience manager,7.5
+"('NETWORK', 'HIGH', 'MULTIPLE_INSTANCES', 'NONE', 'NONE')",oracle mysql,1.7
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",drupal drupal,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",ibm http server,9.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",redhat enterprise virtualization manager,2.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apache standard taglibs,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",novell opensuse,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apache xerces-c,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",canonical ubuntu linux,6.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",apache subversion,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",kankun smartsocket,6.8
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",openstack compute,5.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",ibm websphere application server,8.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm db2,4.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm tivoli storage flashcopy manager,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",zend zend framework,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",xmlsoft libxml,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",redhat jboss bpm suite,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",samsung galaxy s6,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",theforeman foreman,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",fedoraproject fedora,0.0
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",samsung galaxy s6,2.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",schneider electric struxureware building expert mpm,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",openbsd openssh,6.9
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",openbsd openssh,7.2
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft malicious software removal tool,6.9
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ows scald,5.0
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",drupaljedi amocrm,2.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",drupaldise cms updater,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",drupaldise cms updater,4.9
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft windows rt 8.1,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asa cx context-aware security software,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cisco spa 501g 8-line ip phone,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco videoscape delivery system for internet streamer,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco mobility services engine,4.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco adaptive security appliance software,8.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco adaptive security appliance software,7.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco adaptive security appliance software,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle jdk,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",oracle database server,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",oracle sql trace analyzer,5.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oracle jd edwards products,4.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle peoplesoft products,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",oracle enterprise manager grid control,4.3
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",oracle solaris,4.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",nibbleblog nibbleblog,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",oxide project oxide,6.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",ubuntu network-manager,4.6
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",libarchive libarchive,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",debian debian linux,6.8
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",xen xen,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",apache groovy,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",sensiolabs symfony,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows 7,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe air sdk %26 compiler,5.0
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",apple iphone os,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",privoxy privoxy,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",kiwix kiwix,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",libssh2 libssh2,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",gnu glibc,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zfcuser project zfcuser,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",7-zip p7zip,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",banner effect header project banner effect header,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",mcafee epolicy orchestrator,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",mcafee epolicy orchestrator,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ektron ektron content management system,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'COMPLETE')",ceragon fiberair ip-10g,7.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",ipass ipass open mobile,9.0
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",labtech software labtech,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",lenovo thinkserver td350,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",trend micro scanmail,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",lenovo thinkserver td350,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",typo3 typo3,3.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",roaring penguin remind,0.0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",redhat openshift,8.5
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apple xcode,3.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla seamonkey,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",mozilla thunderbird,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mozilla seamonkey,6.8
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",linux linux kernel,5.1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sap hana web-based development workbench,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",sap netweaver java application server,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",ge mds pulsenet,0.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",apple mac os x server,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",zanematthew zm ajax login %26 register,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",elasticsearch logstash,6.4
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",gnu parallel,3.6
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",sap content server,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",thoughtbot paperclip,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",bonitasoft bonita bpm portal,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle e-business suite,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",boxautomation c2box,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",oscommerce oscommerce,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",asus rt-g32,6.8
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows vista,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",microsoft windows vista,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows 8.1,7.2
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",microsoft windows 8.1,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zanematthew zm ajax login %26 register,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",debian dbd-firebird,0.0
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",foxitsoftware reader,4.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",arj software arj archiver,7.5
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",oracle e-business suite,2.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",hotspot express hotex billing manager,4.3
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",mybb mybb,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",gnome byzanz,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",perfecto project perfecto,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",site documentation project site documentation,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",og tabs project og tabs,3.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",image title project image title,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",sqlite sqlite,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",webform multiple file upload project webform multiple file upload,6.8
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",crumbs project crumbs,2.1
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'NONE')",cisco digital content manager,5.4
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco prime network registrar,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wideimage project wideimage,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",libevent project libevent,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",emc rsa identity management and governance,3.5
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hp software update,4.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",metalgenix genixcms,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",apple apple tv,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",kallithea kallithea,4.0
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",redhat kexec-tools,3.6
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",cisco webex meeting center,7.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",apple apple tv,5.0
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco asr 9922,5.7
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco ubr10000 cable modem termination system,6.8
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",apple iphone os,1.9
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'NONE')",cisco ubr10000 cable modem termination system,5.4
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco ubr10000 cable modem termination system,5.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hp loadrunner,4.6
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",icsgmbh pactware,4.3
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'NONE')",fortinet fortiauthenticator,4.9
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",views bulk operations project views bulk operations,4.9
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",debian debian linux,8.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",x libxfont,8.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",me aliases project me aliases,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows rt 8.1,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft powerpoint,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft system center operations manager 2012,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",codepeople appointment booking calendar,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",cisco unified communications domain manager,6.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco catalyst 4510r%2be,6.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco nexus 9372tx,6.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco ios xe,7.1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco unified callmanager,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco unified communications domain manager,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco asr 1013,7.1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",oracle right now service cloud,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle e-business suite,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",content construction kit project content construction kit,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",debian unattended-upgrades,6.8
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'COMPLETE')",linuxcontainers lxc,4.9
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",linuxcontainers lxc,4.6
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",fusionforge fusionforge,0.0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",microsoft windows,5.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",mybb mybb,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mybb mybb,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",openstack compute,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",redhat jboss enterprise portal platform,4.9
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",redhat libuser,2.1
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",redhat libuser,7.2
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",redhat enterprise linux workstation,6.9
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",linux linux kernel,6.4
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",microsoft windows,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ericsson drutt mobile service delivery platform,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zohocorp manageengine admanager plus,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",shibboleth opensaml java,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",openssl openssl,6.4
+"('ADJACENT_NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",ntp ntp,1.8
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",ntp ntp,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",d-link dsl-2730b,3.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",puppetlabs puppet,6.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",web-dorado spider facebook,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",sysaid sysaid,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",dlguard dlguard,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",avinu phpmoadmin,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",google chrome,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",elasticsearch elasticsearch,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",webshophun webshop hun,4.3
+"('LOCAL', 'HIGH', 'NONE', 'COMPLETE', 'COMPLETE')",debian debian linux,6.2
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",cisco unified communications manager,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",mozilla firefox os,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",zohocorp manageengine supportcenter plus,5.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",livelycart livelycart,7.5
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco unified meetingplace web conferencing,0.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'COMPLETE')",i-o data device np-bbrm,7.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",shiromuku bu2 bbs,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",hp access control,4.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",hp t5740e,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",ibm infosphere master data management server,5.0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",microsoft windows server 2008,2.1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",pivotal software rabbitmq management,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",hp tippingpoint security management system,7.5
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",hp storage data protector,9.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",synck graphica download log cgi,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",zohocorp manageengine supportcenter plus,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",php php,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",cisco spark,4.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco prime collaboration assurance,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",w1.fi wpa supplicant,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",wp smiley project wp smiley,6.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",w1.fi hostapd,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",juniper srx100,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",juniper junos,9.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",zurmo zurmo crm,3.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",easy2map project easy2map,7.5
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",hp mt41 thin client,6.9
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",linux linux kernel,5.0
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",ibm infosphere information server,1.9
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",mindbite sitefactory cms,7.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",todo filter project todo filter,6.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows,7.2
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",synology video station,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",fedoraproject fedora,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",synology video station,7.5
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft windows xp,6.9
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'PARTIAL')",oracle supply chain products suite,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",apple iphone os,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",microsoft sharepoint server,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",administration views project administration views,6.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",mediawiki mediawiki,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe adobe air,5.0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",adobe adobe air,0.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",adobe adobe air sdk,8.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",mediawiki scribunto,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cups cups,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",finder project finder,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",registration codes project registration codes,6.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",mover project mover,3.5
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",module-signature project module-signature,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",scadaengine bacnet opc server,7.5
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",taxonomy accordion project taxonomy accordion,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",wishlist project wishlist,5.8
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",pacemaker%2fcorosync configuration system project pacemaker%2fcorosync configuration system,4.9
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco content security management appliance,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",opentext secure mft 2014,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",citrix command center,7.5
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",citrix command center,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",asus rt-g32,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",metalgenix genixcms,6.8
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",libuv project libuv,0.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",redhat richfaces,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",redhat openstack,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco wireless lan controller software,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco jabber,5.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",cisco identity services engine software,4.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",cisco web security virtual appliance,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",cisco web security virtual appliance,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco webex meeting center,4.3
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco email security appliance,6.4
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",codfront labs http strict transport security,6.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",vmware horizon view client,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",mcafee data loss prevention endpoint,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ab google map travel project ab google map travel,6.8
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",mcafee data loss prevention endpoint,4.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",xen xen,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",gaia-gis freexl,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",ffmpeg ffmpeg,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",palosanto elastix,7.5
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cfdbplugin contact form db,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",google doc embedder google doc embedder,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",inline entity form project inline entity form,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",webgroupmedia cerb,6.8
+"('NETWORK', 'LOW', 'MULTIPLE_INSTANCES', 'COMPLETE', 'COMPLETE')",symantec web gateway,8.3
+"('NETWORK', 'LOW', 'MULTIPLE_INSTANCES', 'PARTIAL', 'PARTIAL')",symantec web gateway,5.8
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",sumome google analyticator,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",codepeople appointment booking calendar,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",microsoft lync basic,9.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",auto-exchanger auto-exchanger,6.8
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",apache solr real-time project apache solr real-time,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco telepresence tc software,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",cisco telepresence tc software,5.8
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",cisco asr 9001,5.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",cisco asr 9922,7.8
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",cisco web security appliance,7.2
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",cisco wireless lan controller software,4.3
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",cisco secure desktop,9.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",oracle database server,6.8
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",oracle vm server,4.3
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",oracle peoplesoft products,3.3
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",ibm business process manager,4.0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm rational license key server,4.0
+"('NETWORK', 'HIGH', 'NONE', 'COMPLETE', 'COMPLETE')",oracle jre,7.6
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",kde plasma-workspace,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sympa sympa,5.0
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",sap netweaver abap,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",kde kde-workspace,4.3
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",navigate project navigate,3.5
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",cisco wireless lan controller,7.1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",job manager job manager,4.3
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",fortinet fortios,6.4
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",ibm tivoli storage fastback for microsoft exchange,4.0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",realmd project realmd,5.0
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",chamilo integration project chamilo integration,5.8

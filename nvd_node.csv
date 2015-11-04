@@ -1,0 +1,1467 @@
+id,value,type
+source,value,0
+target,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",7.5,0
+novell opensuse,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",4.3,0
+redhat jboss operations network,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",6.8,0
+pivotx pivotx,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",0.0,0
+cups cups,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",6.5,0
+osisoft pi sql for af,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",5.0,0
+hospira lifecare pca5,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'NONE')",4.9,0
+rockwellautomation rsview32,0.0,1
+qualiteam x-cart,0.0,1
+magic hills wonderplugin audio player,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",7.2,0
+lenovo system update,0.0,1
+nucleuscms nucleus cms,0.0,1
+watchguard xcs,0.0,1
+netcat netcat,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",5.8,0
+services single sign-on server helper project services single sign-on server helper,0.0,1
+photocati media photocrati,0.0,1
+myupb ultimate php board,0.0,1
+persistent systems radia client automation,0.0,1
+npds revolution,0.0,1
+motorola motorola scanner sdk,0.0,1
+fancybox project fancybox,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",6.8,0
+moodle moodle,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",8.5,0
+symantec endpoint protection manager,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",6.0,0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",5.5,0
+htaccess project htaccess,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",3.5,0
+cloudwords cloudwords for multilingual,0.0,1
+usersultra usersultra,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",5.0,0
+apple os x server,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",8.5,0
+samsung samsung security manager,0.0,1
+apple iphone os,0.0,1
+google chrome,0.0,1
+google android,0.0,1
+linux linux kernel,0.0,1
+xen xen,0.0,1
+zohocorp servicedesk plus,0.0,1
+cmsjunkie j-classifiedsmanager,0.0,1
+zohocorp manageengine supportcenter plus,0.0,1
+themepunch slider revolution,0.0,1
+mylittleforum my little forum,0.0,1
+ecommercemajor project ecommercemajor,0.0,1
+pragyan cms project pragyan cms,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",6.4,0
+gnu glibc,0.0,1
+time tracker project time tracker,0.0,1
+ricoh dl-1 sr10,0.0,1
+apple itunes,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",5.8,0
+almail al-mail32,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",4.3,0
+impliedbydesign navigate,0.0,1
+clip-bucket clipbucket,0.0,1
+cosmoshop cosmoshop,0.0,1
+homepage decorator perltreebbs,0.0,1
+nishishi fumy news clipper,0.0,1
+shiromuku guestbook,0.0,1
+saurus saurus cms,0.0,1
+c-board moyuku project c-board moyuku,0.0,1
+"('ADJACENT_NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",1.8,0
+okb.co.jp smartphone passbook,0.0,1
+siemens climatix bacnet%2fip,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",4.4,0
+dell sonicwall netextender firmware,0.0,1
+smart trim project smart trim,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",2.6,0
+strongswan strongswan,0.0,1
+theeventscalendar eventbrite tickets,0.0,1
+techsmith camtasia relay,0.0,1
+dev4press gd bbpress attachments,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",4.0,0
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",6.9,0
+oracle berkeley db,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",3.3,0
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",3.5,0
+oracle mysql,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",4.9,0
+oracle solaris,0.0,1
+oracle hyperion,0.0,1
+vmware vcenter server,0.0,1
+blackcat-cms blackcat cms,0.0,1
+fedoraproject fedora,0.0,1
+synology download station,0.0,1
+nokia %40vantage commander,0.0,1
+splunk splunk,0.0,1
+adobe air,0.0,1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",2.9,0
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",5.0,0
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",7.8,0
+pcman%27s ftp server project pcman%27s ftp server,0.0,1
+microsoft windows rt 8.1,0.0,1
+microsoft windows vista,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",6.4,0
+mozilla firefox esr,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",9.3,0
+mozilla firefox,0.0,1
+microsoft internet explorer,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",4.3,0
+apple mac os x,0.0,1
+digitalnature fusion,0.0,1
+ffmpeg ffmpeg,0.0,1
+zoneo-soft phptraffica,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",3.3,0
+debian debian linux,0.0,1
+wordpress wordpress,0.0,1
+webform project webform,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'COMPLETE')",6.6,0
+zarafa zarafa collaboration platform,0.0,1
+ubercart webform integration project ubercart webform integration,0.0,1
+osscube custom sitemap,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",4.9,0
+web-dorado web-dorado spider video player,0.0,1
+web-dorado spider catalog,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",7.1,0
+cisco ios,0.0,1
+cisco web security appliance,0.0,1
+cisco ios xr,0.0,1
+cisco webex meeting center,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",6.1,0
+cisco nexus 7000,0.0,1
+cisco unified communications domain manager,0.0,1
+opac project opac,0.0,1
+ubercart currency conversion project ubercart currency conversion,0.0,1
+phplist integration project phplist integration,0.0,1
+dlc solutions course,0.0,1
+hp matrix operating environment,0.0,1
+mit kerberos,0.0,1
+wikiwiki project wikiwiki,0.0,1
+openssl openssl,0.0,1
+rubyonrails ruby on rails,0.0,1
+pivotal software spring framework,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",2.1,0
+ibm websphere commerce,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'NONE')",7.8,0
+rack project rack,0.0,1
+cisco unified communications manager im and presence service,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",4.0,0
+cisco unified presence server,0.0,1
+cisco headend system release,0.0,1
+cisco unified ip phones 9900 series firmware,0.0,1
+cisco nexus 9332pq,0.0,1
+cisco wireless lan controller software,0.0,1
+openstack neutron,0.0,1
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",2.1,0
+thinkshout mailchimp,0.0,1
+oracle fusion middleware,0.0,1
+montala resourcespace,0.0,1
+stunnel stunnel,0.0,1
+openstack keystone,0.0,1
+wppa.opajaap wp-photo-album-plus,0.0,1
+emc vipr srm,0.0,1
+emc documentum d2,0.0,1
+emc watch4net,0.0,1
+"('NETWORK', 'MEDIUM', 'MULTIPLE_INSTANCES', 'NONE', 'NONE')",2.8,0
+oracle commerce platform,0.0,1
+emc unisphere central,0.0,1
+websense triton,0.0,1
+websense v-series appliances,0.0,1
+mozilla firefox os,0.0,1
+emc captiva capture,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",9.0,0
+novell suse linux enterprise software development kit,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",5.8,0
+w1.fi wpa supplicant,0.0,1
+digia qt,0.0,1
+clusterlabs pacemaker,0.0,1
+powerdns authoritative,0.0,1
+freereprintables articlefr,0.0,1
+jupyter notebook,0.0,1
+visual mining netcharts server,0.0,1
+basware banking,0.0,1
+oracle jdk,0.0,1
+oracle supply chain products suite,0.0,1
+oracle siebel crm,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",7.5,0
+oracle integrated lights out manager firmware,0.0,1
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",3.2,0
+oracle enterprise manager grid control,0.0,1
+sun sunos,0.0,1
+ibm java,0.0,1
+ibm endpoint manager family,0.0,1
+ibm rational test workbench,0.0,1
+ibm infosphere master data management server,0.0,1
+ibm sterling field sales,0.0,1
+sybase adaptive server enterprise,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'NONE')",2.1,0
+microsoft windows server 2012,0.0,1
+sap enterprise resource planning,0.0,1
+microsoft windows server 2003,0.0,1
+usaa mobile banking,0.0,1
+info-zip unzip,0.0,1
+microsoft project server,0.0,1
+oxide project oxide,0.0,1
+apport project apport,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",2.1,0
+canonical ubuntu linux,0.0,1
+microsoft .net framework,0.0,1
+microsoft word viewer,0.0,1
+microsoft exchange server,0.0,1
+websense triton ap email,0.0,1
+alkacon opencms,0.0,1
+mikrotik routeros,0.0,1
+mybb mybb,0.0,1
+microsoft windows,0.0,1
+adobe shockwave player,0.0,1
+aegirproject hostmaster,0.0,1
+oracle database server,0.0,1
+oracle jre,0.0,1
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",6.6,0
+oracle vm virtualbox,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",7.1,0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",4.0,0
+oracle peoplesoft products,0.0,1
+cisco sourcefire 3d9900 sensor,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",1.9,0
+openbsd openssh,0.0,1
+cisco unified customer voice portal,0.0,1
+cisco email security appliance,0.0,1
+cisco firesight system software,0.0,1
+cisco mediasense,0.0,1
+cisco wide area application services,0.0,1
+cisco headend digital broadband delivery system,0.0,1
+emerson ams device manager,0.0,1
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",1.7,0
+wonderware intouch,0.0,1
+moxa softcms,0.0,1
+woothemes woocommerce,0.0,1
+magmi magmi,0.0,1
+avira management console,0.0,1
+mcafee data loss prevention endpoint,0.0,1
+manageengine servicedesk plus,0.0,1
+ansible tower,0.0,1
+symantec workspace streaming,0.0,1
+symantec data loss prevention,0.0,1
+tadaa%21 project tadaa%21,0.0,1
+room reservations project room reservations,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",2.6,0
+inductiveautomation ignition,0.0,1
+ecava integraxor,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",6.4,0
+schneider electric wonderware intouch 2014,0.0,1
+servision hvg400,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",3.3,0
+bestpractical request tracker,0.0,1
+clamav clamav,0.0,1
+huawei quidway s9700,0.0,1
+hp integrated lights-out 4 firmware,0.0,1
+wouter verhelst nbd,0.0,1
+django-markupfield project django-markupfield,0.0,1
+sixapart movabletype,0.0,1
+wesnoth battle for wesnoth,0.0,1
+siemens simatic s7-300 cpu,0.0,1
+rubyonrails web console,0.0,1
+ibm general parallel file system,0.0,1
+paloaltonetworks pan-os,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",4.7,0
+ibm websphere,0.0,1
+"('NETWORK', 'HIGH', 'MULTIPLE_INSTANCES', 'NONE', 'NONE')",1.7,0
+oracle e-business suite,0.0,1
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",3.6,0
+vboxcomm satellite express protocol,0.0,1
+sourceafrica project sourceafrica,0.0,1
+zendesk zendesk feedback tab,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",3.5,0
+hp operations orchestration,0.0,1
+xcloner xcloner,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",5.1,0
+persian car cms project persian car cms,0.0,1
+garrettcom magnum 10k firmware,0.0,1
+wireshark wireshark,0.0,1
+wvware libwmf,0.0,1
+tinysrp project tinysrp,0.0,1
+ibm websphere portal,0.0,1
+cisco ip communicator,0.0,1
+devexpress ajax control toolkit,0.0,1
+spider contacts project spider contacts,0.0,1
+securifi almond-2015,0.0,1
+securifi almond,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",7.3,0
+searchblox searchblox,0.0,1
+adobe acrobat dc,0.0,1
+services basic authentication project services basic authentication,0.0,1
+restful web services project restful web services,0.0,1
+sms framework project sms framework,0.0,1
+adnovum nevisauth,0.0,1
+cisco telepresence video communication server software,0.0,1
+cisco prime collaboration,0.0,1
+cisco data center analytics framework,0.0,1
+cisco virtualization experience client 6000 series firmware,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",5.5,0
+cisco identity services engine software,0.0,1
+solarwinds storage manager,0.0,1
+siemens siprotec compact,0.0,1
+open-xchange open-xchange appsuite,0.0,1
+cisco nexus 4001i,0.0,1
+djangoproject django,0.0,1
+zohocorp manageengine assetexplorer,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",6.8,0
+cisco nx-os,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'COMPLETE', 'COMPLETE')",8.3,0
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",4.6,0
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'PARTIAL')",3.6,0
+cisco mds 9700,0.0,1
+cisco unified meetingplace,0.0,1
+cisco adaptive security appliance software,0.0,1
+petition project petition,0.0,1
+docker docker,0.0,1
+foxitsoftware phantompdf,0.0,1
+foxitsoftware reader,0.0,1
+"('NETWORK', 'MEDIUM', 'MULTIPLE_INSTANCES', 'NONE', 'NONE')",5.7,0
+openstack python-keystoneclient,0.0,1
+wpsymposium wp symposium,0.0,1
+apache subversion,0.0,1
+apache http server,0.0,1
+apple safari,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",1.9,0
+oracle ilearning,0.0,1
+ibm tivoli storage manager fastback,0.0,1
+ibm db2,0.0,1
+ibm websphere application server,0.0,1
+microsoft silverlight,0.0,1
+microsoft windows rt,0.0,1
+pimcore pimcore,0.0,1
+ge mds pulsenet,0.0,1
+everest peakhmi,0.0,1
+php php,0.0,1
+superwebmailer superwebmailer,0.0,1
+vmware workstation,0.0,1
+huawei seq analyst,0.0,1
+thekelleys dnsmasq,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'NONE')",1.9,0
+oracle virtualization,0.0,1
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'NONE')",2.1,0
+cisco secure access control system,0.0,1
+cisco secure access control server,0.0,1
+cisco security manager,0.0,1
+cisco videoscape distribution suite for internet streaming,0.0,1
+cisco telepresence te software,0.0,1
+apple apple tv,0.0,1
+oracle enterprise manager plugin for database control,0.0,1
+fortinet fortios,0.0,1
+sprymedia datatables,0.0,1
+taxonews project taxonews,0.0,1
+osinet classified ads,0.0,1
+patterns patterns,0.0,1
+alfresco alfresco,0.0,1
+nodeauthor project nodeauthor,0.0,1
+levelteninteractive content analysis,0.0,1
+joshics contact form fields,0.0,1
+video project video,0.0,1
+linkit project linkit,0.0,1
+term merge project term merge,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",3.6,0
+x.org xorg-server,0.0,1
+quassel-irc quassel,0.0,1
+acme mini httpd,0.0,1
+redhat jboss portal,0.0,1
+schneider electric pelco ds-nv,0.0,1
+fortinet fortiauthenticator,0.0,1
+moxa vport activex sdk plus,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",5.4,0
+honeywell excel web xl 1000c1000 600 i%2fo uukl,0.0,1
+cisco unified ip phone 9951,0.0,1
+fortinet forticlient,0.0,1
+restaurantbiller restaurant biller,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",7.1,0
+bluecoat unified agent,0.0,1
+siemens simatic step 7,0.0,1
+websense triton ap web,0.0,1
+picketlink picketlink,0.0,1
+archmage project archmage,0.0,1
+xmltooling project xmltooling,0.0,1
+freeimage project freeimage,0.0,1
+ericsson drutt mobile service delivery platform,0.0,1
+adminsystems cms project adminsystems cms,0.0,1
+mobile domain project mobile domain,0.0,1
+redirection project redirection,0.0,1
+dell asset manager,0.0,1
+fatfreecrm fat free crm,0.0,1
+maarch gec%2fged,0.0,1
+juniper junos,0.0,1
+ibm websphere mq,0.0,1
+htacg tidy,0.0,1
+ibm infosphere information server,0.0,1
+novius-os novius os,0.0,1
+cagintranetworks getsimple cms,0.0,1
+oracle oracle and sun systems product suite,0.0,1
+googlesearch project googlesearch,0.0,1
+ibm websphere message broker,0.0,1
+ibm tivoli directory server,0.0,1
+ibm domino,0.0,1
+emc rsa identity management and governance,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",7.5,0
+emc atmos,0.0,1
+emc documentum content server,0.0,1
+emc documentum taskspace,0.0,1
+ibs mappro project ibs mappro,0.0,1
+concrete5 concrete5,0.0,1
+openstack horizon,0.0,1
+mcafee epo deep command,0.0,1
+thecartpress thecartpress ecommerce shopping cart,0.0,1
+fedora pacemaker configuration system,0.0,1
+sap netweaver rfc sdk,0.0,1
+sap customer relationship management,0.0,1
+isc bind,0.0,1
+video consultation project video consultation,0.0,1
+mobile devices c4 obd-ii dongle firmware,0.0,1
+actiontec gt784wn wireless n dsl modem,0.0,1
+invoice project invoice,0.0,1
+dynamic display block project dynamic display block,0.0,1
+semanticforms project semanticforms,0.0,1
+emc rsa onestep,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'NONE')",2.6,0
+quiz project quiz,0.0,1
+views project views,0.0,1
+apache wss4j,0.0,1
+apache cassandra,0.0,1
+apache qpid,0.0,1
+cisco asr 1013,0.0,1
+cisco asr 5000 series software,0.0,1
+pass2pdf project pass2pdf,0.0,1
+openvz vzctl,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'COMPLETE', 'COMPLETE')",7.6,0
+gnu mailman,0.0,1
+docker libcontainer,0.0,1
+gnu libtasn1,0.0,1
+qlik qlikview,0.0,1
+fortinet fortianalyzer firmware,0.0,1
+sap enterprise central component,0.0,1
+ektron ektron content management system,0.0,1
+freebsd freebsd,0.0,1
+emc rsa bsafe ssl-c,0.0,1
+emc sourceone email management,0.0,1
+emc networker,0.0,1
+rubyonrails jquery-ujs,0.0,1
+"('LOCAL', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",3.7,0
+redhat enterprise virtualization,0.0,1
+redhat openstack,0.0,1
+emc autostart,0.0,1
+theforeman foreman,0.0,1
+unzoo unzoo,0.0,1
+betster project betster,0.0,1
+labsmedia clickheat,0.0,1
+cisco prime service catalog,0.0,1
+lenovo thinkserver rd550,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",7.8,0
+hp mt41 thin client,0.0,1
+lenovo usb enhanced performance keyboard,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'NONE')",5.8,0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",8.0,0
+ibm powervc,0.0,1
+moxa eds-408a,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'COMPLETE')",8.5,0
+endress%2bhauser hart comm dtm,0.0,1
+registration codes project registration codes,0.0,1
+3s-smart codesys gateway server,0.0,1
+ubercart discount coupons project ubercart discount coupons,0.0,1
+ibc solar danfoss tlx pro%2b,0.0,1
+resource data management data manager data manager,0.0,1
+microsoft office compatibility pack,0.0,1
+microsoft sharepoint designer,0.0,1
+microsoft excel viewer,0.0,1
+openafs openafs,0.0,1
+haproxy haproxy,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",4.9,0
+mysql mysql,0.0,1
+novell suse linux sdk,0.0,1
+bolt bolt,0.0,1
+oracle health sciences applications,0.0,1
+cisco telepresence ip gateway,0.0,1
+cisco asr 5700,0.0,1
+cisco asr 5000,0.0,1
+cisco ios xe,0.0,1
+cisco unified communications manager,0.0,1
+cisco unity connection,0.0,1
+cisco finesse,0.0,1
+insanevisions adaptcms,0.0,1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",5.4,0
+refbase refbase,0.0,1
+sensiolabs symfony,0.0,1
+hospira lifecare pca3,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",9.0,0
+beckhoff ipc diagnostics,0.0,1
+newphoria corporation applican,0.0,1
+node invite project node invite,0.0,1
+amazon aws project amazon aws,0.0,1
+corner project corner,0.0,1
+niif shibboleth authentication,0.0,1
+quizzler project quizzler,0.0,1
+microsoft edge,0.0,1
+adobe acrobat,0.0,1
+adobe acrobat reader dc,0.0,1
+adobe acrobat reader,0.0,1
+aas9 zerocms,0.0,1
+siemens ruggedcom win5200,0.0,1
+dena h20,0.0,1
+simon tatham putty,0.0,1
+tcpdump tcpdump,0.0,1
+boxoft boxoft wav to mp3 converter,0.0,1
+siemens spcanywhere,0.0,1
+siemens simotion scout,0.0,1
+cisco firepower,0.0,1
+joomla joomla%21,0.0,1
+kent-web joyful note,0.0,1
+kent-web clip board,0.0,1
+fca uconnect,0.0,1
+solarwinds n-able n-central,0.0,1
+octobercms october,0.0,1
+synck graphica mailform pro cgi,0.0,1
+zen-cart.jp zen cart,0.0,1
+squid-cache squid,0.0,1
+crear.ne.jp al-mail32,0.0,1
+iij seil%2fb1,0.0,1
+checkpw project checkpw,0.0,1
+toshiba service station,0.0,1
+chaos tool suite project ctools,0.0,1
+sap mobile platform,0.0,1
+opsview opsview,0.0,1
+gnu gnu screen,0.0,1
+iojs io.js,0.0,1
+openstack glance,0.0,1
+emc documentum centerstage,0.0,1
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",6.8,0
+sap netweaver,0.0,1
+sap afaria,0.0,1
+emc isilon onefs,0.0,1
+emc recoverpoint for virtual machines,0.0,1
+emc avamar server virtual edition,0.0,1
+piriform ccleaner,0.0,1
+microsoft office web apps server,0.0,1
+microsoft sharepoint foundation,0.0,1
+microsoft windows 8.1,0.0,1
+dell sonicwall global management system,0.0,1
+sap hana,0.0,1
+webservice-dic yoyaku,0.0,1
+seeds acmailer,0.0,1
+lemon-s php simple oekaki,0.0,1
+welcart welcart,0.0,1
+sysphonic thetis,0.0,1
+research-artisan research artisan lite,0.0,1
+lemon-s php gazou bbs plus,0.0,1
+se html5 album audio player project se html5 album audio player,0.0,1
+hp hp-ux,0.0,1
+nextend facebook connect,0.0,1
+zohocorp manageengine netflow analyzer,0.0,1
+hp thinpro linux,0.0,1
+hp webinspect,0.0,1
+ibm business process manager,0.0,1
+hp integrated lights-out 3 firmware,0.0,1
+hp sdn van controller,0.0,1
+hp nonstop safeguard security,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'PARTIAL')",8.7,0
+hp sitescope,0.0,1
+hp network virtualization,0.0,1
+sap sap netweaver application server java,0.0,1
+alcatel-lucent omniswitch 6860,0.0,1
+redhat enterprise virtualization manager,0.0,1
+"('LOCAL', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",4.7,0
+synology diskstation manager,0.0,1
+oracle glassfish,0.0,1
+cisco telepresence isdn gw 3241,0.0,1
+cisco telepresence serial gateway,0.0,1
+cisco telepresence ip vcr 3.0,0.0,1
+cisco telepresence mcu software,0.0,1
+cisco telepresence advanced media gateway,0.0,1
+cisco telepresence mse 8000 series,0.0,1
+cisco unified computing system,0.0,1
+sysaid sysaid,0.0,1
+citrix netscaler gateway firmware,0.0,1
+wpslideshow powerplay gallery,0.0,1
+emc powerpath virtual appliance,0.0,1
+siemens homecontrol for room automation,0.0,1
+emc secure remote services,0.0,1
+emc rsa validation manager,0.0,1
+emc documentum xcelerated management system,0.0,1
+emc rsa registration manager,0.0,1
+cisco asr 1001,0.0,1
+newphoria corporation koritore,0.0,1
+mcafee vulnerability manager,0.0,1
+newphoria corporation megaphone music,0.0,1
+oracle jrockit,0.0,1
+ibm websphere virtual enterprise,0.0,1
+ibc solar servemaster tlp%2b,0.0,1
+microsoft windows server 2008,0.0,1
+microsoft windows 7,0.0,1
+projectsend projectsend,0.0,1
+web-dorado ecommerce wd,0.0,1
+vastal phpvid,0.0,1
+airties rt-210,0.0,1
+cisco secure access control server solution engine,0.0,1
+cisco unified computing system central software,0.0,1
+cisco asr 1000,0.0,1
+google v8,0.0,1
+e107 e107,0.0,1
+brother mfc-j4410dw,0.0,1
+web-dorado photo gallery,0.0,1
+crea8social crea8social,0.0,1
+croogo croogo,0.0,1
+phpkit phpkit,0.0,1
+context project context,0.0,1
+f5 big-ip application security manager,0.0,1
+services project services,0.0,1
+microsoft windows media player,0.0,1
+synametrics xeams,0.0,1
+taxonomy path project taxonomy path,0.0,1
+commerce balanced payments project commerce balanced payments,0.0,1
+taxonomy tools project taxonomy tools,0.0,1
+node access product project node access product,0.0,1
+insite node basket,0.0,1
+funnymonkey feature set,0.0,1
+public download count project public download count,0.0,1
+balanced commerce balanced payments,0.0,1
+mcafee email gateway,0.0,1
+rhodecode rhodecode enterprise,0.0,1
+image metadata cruncher project image metadata cruncher,0.0,1
+phpbb phpbb,0.0,1
+cisco nexus 3548,0.0,1
+microsoft office,0.0,1
+oracle enterprise manager database control,0.0,1
+tips and tricks hq all in one wordpress security and firewall,0.0,1
+extplorer extplorer,0.0,1
+bestwebsoft google captcha,0.0,1
+maroyaka simple board project maroyaka simple board,0.0,1
+maroyaka image album project maroyaka image album,0.0,1
+maroyaka relay novel project maroyaka relay novel,0.0,1
+openldap openldap,0.0,1
+current search links project current search links,0.0,1
+futomi mp form mail cgi,0.0,1
+open graph importer project open graph importer,0.0,1
+piwigo piwigo,0.0,1
+infoblox netmri,0.0,1
+acobot live chat %26 contact form project acobot live chat %26 contact form,0.0,1
+free-counter free counter,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'PARTIAL', 'NONE')",5.6,0
+microsoft word,0.0,1
+bedita bedita,0.0,1
+panasonic security api activex sdk,0.0,1
+garrettcom magnum 6k firmware,0.0,1
+schneider-electic sage 3030 magnum rtu,0.0,1
+cacti cacti,0.0,1
+decisions project decisions,0.0,1
+medhabidotcom mdc private message,0.0,1
+mass contact project mass contact,0.0,1
+gns3 gns3,0.0,1
+asus tm-1900,0.0,1
+lemon-s php simple oekaki bbs,0.0,1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",4.3,0
+siemens ruggedcom rugged operating system,0.0,1
+cgi rescue blobee,0.0,1
+apple mac os,0.0,1
+droidwareuk explorer%2b file manager,0.0,1
+namshi namshi%2fjose,0.0,1
+novell suse linux enterprise server,0.0,1
+display suite project display suite,0.0,1
+civicrm civicrm private report,0.0,1
+user import project user import,0.0,1
+node template project node template,0.0,1
+keyword research project keyword research,0.0,1
+hybridauth social login project hybridauth social login,0.0,1
+libmspack project libmspack,0.0,1
+ibm api management,0.0,1
+ibm content collector,0.0,1
+ibm spss statistics,0.0,1
+jsp%2fmysql administrador web project jsp%2fmysql administrador web,0.0,1
+hp keyview,0.0,1
+sap clinical task tracker,0.0,1
+sap netweaver enterprise portal,0.0,1
+hancom hanword viewer 2007,0.0,1
+sap sql anywhere,0.0,1
+fli4l fli4l,0.0,1
+arcserve arcserve unified data protection,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",9.4,0
+landing pages project landing pages,0.0,1
+dell netvault backup,0.0,1
+gigpress gigpress,0.0,1
+wavelink connectpro,0.0,1
+newstatpress project newstatpress,0.0,1
+hp version control repository manager,0.0,1
+borland accurev,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'COMPLETE', 'NONE')",8.5,0
+emc documentum thumbnail server,0.0,1
+websitebaker websitebaker,0.0,1
+samsung ipolis device manager,0.0,1
+adb p.dga4001n,0.0,1
+arj software arj archiver,0.0,1
+cs-cart cs-cart,0.0,1
+hp t5740e,0.0,1
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",4.6,0
+oracle retail applications xstore,0.0,1
+arubanetworks clearpass policy manager,0.0,1
+atlassian hipchat,0.0,1
+impero impero education pro,0.0,1
+bisonware bisonftp,0.0,1
+konicaminolta ftp utility,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'PARTIAL')",4.8,0
+oracle javafx,0.0,1
+structured dynamics open semantic framework,0.0,1
+ibm maximo asset management,0.0,1
+ibm websphere mq light,0.0,1
+wavelink terminal emulation,0.0,1
+mcafee threat intelligence exchange,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",6.3,0
+cisco catalyst 6513-e,0.0,1
+cisco telepresence tc software,0.0,1
+cisco mds 9000 nx-os,0.0,1
+cisco application and content networking system software,0.0,1
+cisco network convergence system 6008,0.0,1
+novell zenworks configuration management,0.0,1
+mantisbt mantisbt,0.0,1
+vmware fusion,0.0,1
+siemens simatic s7 1200 cpu,0.0,1
+siemens scalance x201-3p irt pro,0.0,1
+yiiframework yiiframework,0.0,1
+proftpd proftpd,0.0,1
+ajax timeline project ajax timeline,0.0,1
+fibonacciorange wedeal,0.0,1
+facebook album fetcher project facebook album fetcher,0.0,1
+path breadcrumbs project path breadcrumbs,0.0,1
+topline systems opportunity form,0.0,1
+mongodb mongodb,0.0,1
+haxx curl,0.0,1
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'NONE')",4.6,0
+jakweb gecko cms,0.0,1
+puppetlabs facter,0.0,1
+elasticsearch elasticsearch,0.0,1
+mediawiki mediawiki,0.0,1
+sefrengo sefrengo,0.0,1
+widgets project widgets,0.0,1
+timedmediahandler project timedmediahandler,0.0,1
+cisco unified intelligence center,0.0,1
+cisco webex meetings server,0.0,1
+cisco nexus 93128tx,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'PARTIAL', 'PARTIAL')",4.0,0
+siemens sicam mic,0.0,1
+ibm security qradar incident forensics,0.0,1
+audiosharescript audioshare,0.0,1
+oracle virtualization sun ray,0.0,1
+newphoria corporation auction camera,0.0,1
+canon pixma mg7500 series inkjet printer,0.0,1
+ntt-bp japan connected-free wi-fi,0.0,1
+newphoria corporation 1.1,0.0,1
+newphoria corporation reversi,0.0,1
+digium asterisk,0.0,1
+epignosis efront,0.0,1
+webshophun webshop hun,0.0,1
+profile2 privacy project profile2 privacy,0.0,1
+blue coat ssl visibility appliance sv2800,0.0,1
+cfdbplugin contact form db,0.0,1
+visualware myconnection server,0.0,1
+d-link dcs-931l,0.0,1
+cisco asr 9922,0.0,1
+microsoft xml core services,0.0,1
+elasticsearch kibana,0.0,1
+sap hana extend application services,0.0,1
+synology photo station,0.0,1
+mailbird mailbird,0.0,1
+easyio easyio-30p-sf,0.0,1
+invisionpower invision power board,0.0,1
+cyberoam cr500ing-xp,0.0,1
+open-xchange ox guard open-xchange ox guard,0.0,1
+redhat openshift origin,0.0,1
+sap sybase unwired platform online data proxy,0.0,1
+microsoft office web apps,0.0,1
+chiyutw bf-630w,0.0,1
+boosted boosted boards,0.0,1
+igreks milkystep professional oem,0.0,1
+igreks milkystep light,0.0,1
+f21 jwt,0.0,1
+open explorer beta project open explorer beta,0.0,1
+ubercart webform checkout pane project ubercart webform checkout pane,0.0,1
+imagefield info project imagefield info,0.0,1
+entitybulkdelete project entitybulkdelete,0.0,1
+password policy project password policy,0.0,1
+linear case project linear case,0.0,1
+ibm bluemix,0.0,1
+ibm websphere mq internet pass thru,0.0,1
+ibm security siteprotector system,0.0,1
+cisco web security virtual appliance,0.0,1
+portfolio project portfolio,0.0,1
+libvdpau project libvdpau,0.0,1
+ippusbxd project ippusbxd,0.0,1
+siemens simatic hmi multi panels,0.0,1
+siemens wincc,0.0,1
+typo3 neos,0.0,1
+ca spectrum,0.0,1
+simple ads manager project simple ads manager,0.0,1
+drupal drupal,0.0,1
+mozilla thunderbird,0.0,1
+emc rsa archer egrc,0.0,1
+emc document sciences xpression,0.0,1
+emc rsa web threat detection,0.0,1
+emc unified infrastructure manager%2fprovisioning,0.0,1
+emc unisphere,0.0,1
+ibm optim workload replay,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",5.4,0
+yodobashi yodobashi,0.0,1
+ibm infosphere master data management,0.0,1
+ibm tivoli federated identity manager,0.0,1
+ibm websphere datapower xc10 appliance firmware,0.0,1
+ibm security access manager for web 8.0 firmware,0.0,1
+pligg pligg cms,0.0,1
+microsoft windows 10,0.0,1
+reflex gallery project reflex gallery,0.0,1
+ceph ceph-deploy,0.0,1
+owncloud owncloud,0.0,1
+kogmbh webodf,0.0,1
+apache camel,0.0,1
+cisco anyconnect secure mobility client,0.0,1
+cisco edge 340,0.0,1
+cisco ons 15454 system software,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'COMPLETE')",9.4,0
+cisco unified computing system director,0.0,1
+cisco prime network control system,0.0,1
+cisco ios xr software,0.0,1
+zohocorp manageengine eventlog analyzer,0.0,1
+ghozylab gallery - photo albums - portfolio,0.0,1
+microsoft sharepoint server,0.0,1
+hp universal configuration management database,0.0,1
+cisco application control engine 4700,0.0,1
+wp smiley project wp smiley,0.0,1
+actian matrix,0.0,1
+cisco carrier routing system,0.0,1
+apple xcode,0.0,1
+beasts vsftpd,0.0,1
+inetc project inetc,0.0,1
+arubanetworks arubaos,0.0,1
+blubrry powerpress podcasting,0.0,1
+banner effect header project banner effect header,0.0,1
+geo mashup project geo mashup,0.0,1
+privoxy privoxy,0.0,1
+igniterealtime openfire,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'PARTIAL', 'PARTIAL')",3.3,0
+libunwind project libunwind,0.0,1
+kernel linux-pam,0.0,1
+haxx libcurl,0.0,1
+dream-multimedia-tv dreambox dm500-s,0.0,1
+apphp hotel site,0.0,1
+freebit elphonebtnv6 activex control,0.0,1
+opendocman opendocman,0.0,1
+net-snmp net-snmp,0.0,1
+studio.gd gd infinite scroll,0.0,1
+centreon centreon,0.0,1
+dotnetnuke dotnetnuke,0.0,1
+plainblack webgui,0.0,1
+"('LOCAL', 'HIGH', 'NONE', 'NONE', 'NONE')",4.0,0
+d-link dir-645,0.0,1
+mcafee mcafee agent,0.0,1
+d-link dap-1320,0.0,1
+sierra wireless sierra wireless aircard 763s,0.0,1
+zhone technologies gpon 2520,0.0,1
+jabberd2 jabberd2,0.0,1
+libidn project libidn,0.0,1
+websense content gateway,0.0,1
+symphony-cms symphony cms,0.0,1
+schneider-electric wonderware system platform 2014,0.0,1
+xceedium xsuite,0.0,1
+tibco slingshot,0.0,1
+sinapsi esolar light,0.0,1
+redcarpet project redcarpet,0.0,1
+siemens compas,0.0,1
+"('NETWORK', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",8.8,0
+mediawiki checkuser,0.0,1
+apache sling servlets post,0.0,1
+wotlab community gallery,0.0,1
+ocf sxf common library,0.0,1
+zenphoto zenphoto,0.0,1
+jammer project jammer,0.0,1
+hp centralview fraud risk management,0.0,1
+textangular textangular,0.0,1
+field display label project field display label,0.0,1
+log watcher project log watcher,0.0,1
+wftpserver wing ftp server,0.0,1
+wishlist project wishlist,0.0,1
+citrix netscaler,0.0,1
+batch jobs project batch jobs,0.0,1
+das watchdog project das watchdog,0.0,1
+clutter project clutter,0.0,1
+cisco firepower extensible operating system,0.0,1
+apple quicktime,0.0,1
+cisco videoscape policy resource manager,0.0,1
+"('NETWORK', 'HIGH', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",7.1,0
+microsoft sql server,0.0,1
+magnifica webscripts anima gallery,0.0,1
+f5 big-ip wan optimization manager,0.0,1
+ipsec-tools ipsec-tools,0.0,1
+x2engine x2crm,0.0,1
+cisco asyncos,0.0,1
+ibm infosphere biginsights,0.0,1
+openstack image registry and delivery service %28glance%29,0.0,1
+cisco telepresence video communication server,0.0,1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'NONE')",5.7,0
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",4.4,0
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",3.3,0
+belkin n300 dual-band wi-fi range extender,0.0,1
+ibm case manager,0.0,1
+redhat slapi-nis,0.0,1
+gnu gnutls,0.0,1
+fork-cms fork cms,0.0,1
+microsoft lync server,0.0,1
+microsoft skype for business server,0.0,1
+juniper srx5800,0.0,1
+cisco wireless lan controller,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",7.5,0
+cisco unified web and e-mail interaction manager,0.0,1
+cisco ip phone 7861,0.0,1
+cisco hosted collaboration solution,0.0,1
+zohocorp manageengine password manager pro,0.0,1
+youtube embed project youtube embed,0.0,1
+ubuntu vivid,0.0,1
+solarwinds firewall security manager,0.0,1
+sap rfc library,0.0,1
+fortinet single sign on,0.0,1
+cisco application visibility and control,0.0,1
+s9y serendipity,0.0,1
+cisco telepresence server on virtual machine,0.0,1
+levelten interactive spotlight,0.0,1
+milw0rm project milw0rm clone script,0.0,1
+webform prepopulate block project webform prepopulate block,0.0,1
+cisco telepresence mcu 4500 series software,0.0,1
+cisco telepresence management suite,0.0,1
+libpng libpng,0.0,1
+pearson proctorcache,0.0,1
+openinfosecfoundation suricata,0.0,1
+network vision intravue,0.0,1
+scadaengine bacnet opc server,0.0,1
+elipse e3,0.0,1
+magento magento,0.0,1
+quick edit project quick edit,0.0,1
+search api autocomplete project search api autocomplete,0.0,1
+slimframework slim,0.0,1
+entity api project entity api,0.0,1
+web-dorado spider calendar,0.0,1
+wp media cleaner project wp media cleaner,0.0,1
+wonderplugin audio player,0.0,1
+beehive forum beehive forum,0.0,1
+dokuwiki dokuwiki,0.0,1
+artifex afpl ghostscript,0.0,1
+google email,0.0,1
+yuba u5cms,0.0,1
+elegant themes divi,0.0,1
+dlguard dlguard,0.0,1
+apptha wordpress video gallery,0.0,1
+ptc creo view,0.0,1
+the extensible catalog drupal toolkit project the extensible catalog drupal toolkit,0.0,1
+linuxfoundation cups-filters,0.0,1
+telerik analytics monitor library,0.0,1
+sap ase database platform,0.0,1
+akronymmanager project akronymmanager,0.0,1
+timedoctor timedoctor,0.0,1
+aftab tickfa,0.0,1
+xzeres 442sr,0.0,1
+rle nova-wind turbine hmi,0.0,1
+phpmyadmin phpmyadmin,0.0,1
+qemu qemu,0.0,1
+redhat openshift,0.0,1
+open-emr openemr,0.0,1
+cisco telepresence system software ix,0.0,1
+ibm rational quality manager,0.0,1
+ibm rational engineering lifecycle manager,0.0,1
+ibm leads,0.0,1
+bittorrent bittorrent,0.0,1
+ibm integration bus,0.0,1
+cubecart cubecart,0.0,1
+cisco 1000v,0.0,1
+antlabs inngate ig 3100,0.0,1
+honeywell tuxedo touch,0.0,1
+goautodial goadmin ce,0.0,1
+bittorrent sync,0.0,1
+cisco webex node for mcs,0.0,1
+cisco prime central for hosted collaboration solution assurance,0.0,1
+novalnet novalnet payment module ubercart-,0.0,1
+fortinet fortimail,0.0,1
+nscripter project nscripter,0.0,1
+neojapan desknet neo,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",8.5,0
+winace unace,0.0,1
+netapp oncommand workflow automation,0.0,1
+redhat mod cluster,0.0,1
+open source point of sale project open source point of sale,0.0,1
+drupalcommerce commerce commonwealth,0.0,1
+workbench email project workbench email,0.0,1
+cp reservation calender project cp reservation calender,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",4.0,0
+rpcbind project rpcbind,0.0,1
+mcafee advanced threat defense,0.0,1
+kcodes netusb,0.0,1
+tp-link tl-wdr3500 %281.0%29,0.0,1
+juniper qfx5100,0.0,1
+cisco 2900 integrated service router,0.0,1
+cisco desktop collaboration experience dx650,0.0,1
+cisco mds 9000,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'PARTIAL', 'NONE')",4.8,0
+cisco nexus 9372tx,0.0,1
+yoast wordpress seo,0.0,1
+pfsense pfsense,0.0,1
+coppermine-gallery coppermine photo gallery,0.0,1
+phpipam phpipam,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'COMPLETE', 'NONE')",4.7,0
+cisco ids 4210,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'PARTIAL')",6.8,0
+cisco c200 m1,0.0,1
+serve-static project serve-static,0.0,1
+apereo central authentication service,0.0,1
+pixabay images project pixabay images,0.0,1
+catbot project catbot,0.0,1
+two pilots exif pilot,0.0,1
+ajsquare zeuscart,0.0,1
+sequelize project sequelize,0.0,1
+zeuscart zeuscart,0.0,1
+microsoft windows 2003 server,0.0,1
+cisco telepresence ix5200,0.0,1
+solarwinds server and application monitor,0.0,1
+endian firewall endian firewall,0.0,1
+siemens simatic wincc sm%40rtclient lite,0.0,1
+komodia redirector sdk,0.0,1
+etouch samepage,0.0,1
+sap businessobjects edge,0.0,1
+barracuda web filter,0.0,1
+wt directory project wt directory,0.0,1
+be user log project be user log,0.0,1
+snorby snorby,0.0,1
+frontend user upload project frontend user upload,0.0,1
+job fair project job fair,0.0,1
+swisscom centro grande %28adb%29 dsl,0.0,1
+sis windows vga display manager,0.0,1
+eventsentry eventsentry,0.0,1
+polarssl polarssl,0.0,1
+libav libav,0.0,1
+qtranslate project qtranslate,0.0,1
+ibm websphere extreme scale,0.0,1
+blackberry blackberry link,0.0,1
+watchdog aggregator project watchdog aggregator,0.0,1
+ispconfig ispconfig,0.0,1
+stageshow project stageshow,0.0,1
+cisco prime infrastructure,0.0,1
+"('LOCAL', 'MEDIUM', 'MULTIPLE_INSTANCES', 'PARTIAL', 'NONE')",1.3,0
+gemalto safenet luna g5,0.0,1
+ibm change and configuration management database,0.0,1
+arduino json project arduino json,0.0,1
+limesurvey limesurvey,0.0,1
+datalex airline booking software,0.0,1
+mcafee epolicy orchestrator,0.0,1
+blue coat ssl visibility appliance sv800,0.0,1
+antlabs inngate ig 3.01 e,0.0,1
+blue coat ssl visibility appliance sv3800,0.0,1
+rubygems rubygems,0.0,1
+migrate project migrate,0.0,1
+xml-libxml project xml libxml,0.0,1
+lemon-s php twit bbs,0.0,1
+content rating project content rating,0.0,1
+ibm systems director,0.0,1
+ocportal ocportal,0.0,1
+genixcms genixcms,0.0,1
+content rating extbase project content rating extbase,0.0,1
+administration views project administration views,0.0,1
+microsoft live meeting console,0.0,1
+fieldable panels panes project fieldable panels panes,0.0,1
+siemens ruggedcom rugged operating system on linux ii,0.0,1
+storage api project storage api,0.0,1
+inlinks project inlinks,0.0,1
+redhat docker,0.0,1
+codelogic freichat,0.0,1
+phpliteadmin project phpliteadmin,0.0,1
+arabportal arab portal,0.0,1
+microsoft word web apps server,0.0,1
+nvidia gpu driver r346,0.0,1
+gsm sim card editor,0.0,1
+holding pattern project holding pattern,0.0,1
+unit4 teta web,0.0,1
+prestashop prestashop,0.0,1
+osticket osticket,0.0,1
+infinite automation systems mango automation,0.0,1
+webmin webmin,0.0,1
+ferretcms project ferretcms,0.0,1
+marked project marked,0.0,1
+libreswan libreswan,0.0,1
+libmimedir project libmimedir,0.0,1
+restful project restful,0.0,1
+lighttpd lighttpd,0.0,1
+redhat thermostat,0.0,1
+fuse project fuse,0.0,1
+h5ai project h5ai,0.0,1
+apache flex,0.0,1
+microsoft office 2013,0.0,1
+apache openoffice,0.0,1
+fancyfon famoc,0.0,1
+siphon siphone enterprise pbx,0.0,1
+sma solar technology ag webbox firmware,0.0,1
+polycom realpresence cloudaxis suite,0.0,1
+softsphere defensewall personal firewall,0.0,1
+redaxscript redaxscript,0.0,1
+cybernetikz easy social icons,0.0,1
+avatar uploader project avatar uploader,0.0,1
+panopoly magic project panopoly magic,0.0,1
+ilch cms,0.0,1
+unit4 prosoft hrms,0.0,1
+crossslide jquery project crossslide jquery,0.0,1
+term queue project term queue,0.0,1
+dell sonicwall secure remote access firmware,0.0,1
+dounokouno transmitmail,0.0,1
+kozos easyctf,0.0,1
+rakus maildealer,0.0,1
+kajona kajona,0.0,1
+ids ids rtu 850c,0.0,1
+faq-frequenty asked questions project faq-frequently asked questions,0.0,1
+developer log project developer log,0.0,1
+store locator project store locator,0.0,1
+smoelenboek project smoelenboek,0.0,1
+easy2map project easy2map,0.0,1
+innominate mguard firmware,0.0,1
+dolibarr dolibarr,0.0,1
+getusedtoit wp slimstat,0.0,1
+chromium chromium,0.0,1
+pxz project pxz,0.0,1
+standards based linux instrumentation sblim-sfcb,0.0,1
+websense triton ap data,0.0,1
+gnu patch,0.0,1
+gnu cpio,0.0,1
+pax project pax,0.0,1
+kgb project kgb,0.0,1
+zlib pigz,0.0,1
+xiph vorbis-tools,0.0,1
+alcatel-lucent omniswitch 6250,0.0,1
+ibm rational doors next generation,0.0,1
+documentcloud navis documentcloud,0.0,1
+hp loadrunner,0.0,1
+symantec web gateway,0.0,1
+"('NETWORK', 'MEDIUM', 'MULTIPLE_INSTANCES', 'COMPLETE', 'COMPLETE')",7.9,0
+"('ADJACENT_NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",2.7,0
+hp capture and route software,0.0,1
+alcatel-lucent cellpipe 7130 rg 5ae.m2013 hol,0.0,1
+alcatel-lucent cellpipe 7130 router,0.0,1
+grandstream gxv3611 hd,0.0,1
+retrospect retrospect client,0.0,1
+kaseya virtual system administrator,0.0,1
+vestacp vesta control panel,0.0,1
+avigilon avigilon control center,0.0,1
+ghisler total commander,0.0,1
+samsung sbeam,0.0,1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'COMPLETE', 'COMPLETE')",7.9,0
+samsung galaxy s5,0.0,1
+orchardproject orchard,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'NONE', 'NONE', 'COMPLETE')",6.1,0
+iodata wn-g54%2fr2,0.0,1
+guide-park bbs x102,0.0,1
+rakuto rktsns2,0.0,1
+type74 ed,0.0,1
+adobe connect,0.0,1
+adobe coldfusion,0.0,1
+entityform block project entityform block,0.0,1
+php kobo photo gallery cms free,0.0,1
+rest-client project rest-client,0.0,1
+alienvault unified security management,0.0,1
+dell sonicwall sonicos,0.0,1
+cisco nexus 7700,0.0,1
+cisco content security management appliance,0.0,1
+thycotic secret server,0.0,1
+pivotal software redis,0.0,1
+eliacom enhanced sql portal,0.0,1
+web links project web links,0.0,1
+"('ADJACENT_NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",7.7,0
+mobile sliding menu project mobile sliding menu,0.0,1
+webform matrix component project webform matrix component,0.0,1
+juniper mag pcs360,0.0,1
+navigate project navigate,0.0,1
+shipwire api project shipwire api,0.0,1
+pentaho business analytics,0.0,1
+ciphercoin wp limit login attempts,0.0,1
+securemoz securemoz security audit,0.0,1
+tracking code project tracking code,0.0,1
+apache struts,0.0,1
+apache jackrabbit,0.0,1
+microsoft biztalk server,0.0,1
+cisco telepresence conductor,0.0,1
+cisco application networking manager,0.0,1
+cisco network analysis module 2304,0.0,1
+cisco intrusion prevention system,0.0,1
+cisco nexus 5020,0.0,1
+"('NETWORK', 'HIGH', 'NONE', 'NONE', 'NONE')",5.4,0
+arubanetworks instant access point,0.0,1
+sap netweaver j2ee engine,0.0,1
+campaign monitor project campaign monitor,0.0,1
+cisco telepresence server software,0.0,1
+dulwich project dulwich,0.0,1
+mysql-lite-administrator project mysql-lite-administrator,0.0,1
+paypal currency converter basic for woocommerce project paypal currency converter basic for woocommerce,0.0,1
+silverstripe silverstripe,0.0,1
+h-fj mt-phpincgi,0.0,1
+webgateinc edvr manager,0.0,1
+webgate webgate embedded standard protocol sdk,0.0,1
+webgateinc winrds,0.0,1
+agilent technologies feature extraction,0.0,1
+webgateinc webeyeaudio,0.0,1
+sympies wordpress survey and poll,0.0,1
+apache mod-gnutls,0.0,1
+philippine long distance telephone kasda kw58293,0.0,1
+philippine long distance telephone speedsurf 504an,0.0,1
+semperfiwebdesign all in one seo pack,0.0,1
+hidemaru editor,0.0,1
+nishishi fumy teachers schedule board,0.0,1
+flashy project flashy,0.0,1
+lhaplus lhaplus,0.0,1
+bblog project bblog,0.0,1
+t1utils project t1utils,0.0,1
+parityrate roomcloud,0.0,1
+ruby-lang ruby,0.0,1
+indusoft web studio,0.0,1
+ansibleworks ansible,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",6.3,0
+corel wordperfect,0.0,1
+pacemaker%2fcorosync configuration system project pacemaker%2fcorosync configuration system,0.0,1
+openstack kilo,0.0,1
+phpwind phpwind,0.0,1
+ibm rational team concert,0.0,1
+geddyjs geddy,0.0,1
+symantec deployment solution,0.0,1
+bittorrent bootstrap-dht,0.0,1
+chiyutw bf-660c,0.0,1
+chiyu bf-660c,0.0,1
+trend micro deep discovery inspector,0.0,1
+"('LOCAL', 'HIGH', 'SINGLE_INSTANCE', 'COMPLETE', 'COMPLETE')",6.0,0
+hp centralview credit risk control,0.0,1
+tibco messaging appliance,0.0,1
+tibco spotfire analytics platform for aws,0.0,1
+"('LOCAL', 'MEDIUM', 'NONE', 'NONE', 'COMPLETE')",4.7,0
+microsoft virtual machine manager,0.0,1
+digium certified asterisk,0.0,1
+asus rt-n10%2bd1,0.0,1
+hp centralview revenue leakage control,0.0,1
+easing slider easing slider,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'NONE', 'PARTIAL')",7.5,0
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'NONE')",5.5,0
+"('LOCAL', 'HIGH', 'SINGLE_INSTANCE', 'NONE', 'NONE')",3.8,0
+"('LOCAL', 'HIGH', 'NONE', 'PARTIAL', 'NONE')",1.2,0
+oracle e-business suite application management pack,0.0,1
+sierrawireless airlink ls300,0.0,1
+dell optiplex 990,0.0,1
+conntrack-tools project conntrack-tools,0.0,1
+wpmembership wpmembership,0.0,1
+netiq security solutions for iseries,0.0,1
+palo alto networks traps,0.0,1
+freeipa freeipa,0.0,1
+tuxfamily chrony,0.0,1
+hotspotexpress hotex billing manager,0.0,1
+mcafee enterprise security manager%2freceiver,0.0,1
+twitter project twitter,0.0,1
+cisco content services switch 11500,0.0,1
+cisco prime data center network manager,0.0,1
+"('LOCAL', 'LOW', 'SINGLE_INSTANCE', 'PARTIAL', 'PARTIAL')",4.3,0
+oracle retail applications,0.0,1
+"('NETWORK', 'MEDIUM', 'SINGLE_INSTANCE', 'PARTIAL', 'COMPLETE')",7.0,0
+microsoft powerpoint viewer,0.0,1
+microsoft vbscript,0.0,1
+videolan vlc media player,0.0,1
+wpml wpml,0.0,1
+microsoft active directory federation services,0.0,1
+adobe livecycle data services,0.0,1
+f5 big-iq adc,0.0,1
+simple subscription project simple subscription,0.0,1
+certify project certify,0.0,1
+blue coat malware analysis appliance,0.0,1
+ninjaforms ninja forms,0.0,1
+bomgar remote support,0.0,1
+sharelatex sharelatex,0.0,1
+antlabs inngate ig 3.10 g,0.0,1
+commerce ogone project commerce ogone,0.0,1
+samba ppp,0.0,1
+huawei e587 mobile wifi,0.0,1
+huawei e355s mobile wifi,0.0,1
+trick question project trick question,0.0,1
+f5 big-ip protocol security module,0.0,1
+hp intelligent provisioning,0.0,1
+hp system management homepage,0.0,1
+hp operations manager i,0.0,1
+hp arcsight logger,0.0,1
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'COMPLETE', 'NONE')",4.4,0
+intelliants subrion cms,0.0,1
+apache activemq,0.0,1
+ibm maximo anywhere,0.0,1
+church admin project church admin,0.0,1
+wpbeginner floating social bar,0.0,1
+nibbleblog nibbleblog,0.0,1
+j2store j2store,0.0,1
+creative-solutions contact form generator,0.0,1
+teiko farol,0.0,1
+cygnux syspass,0.0,1
+feedwordpress project feedwordpress,0.0,1
+encrypted contact form project encrypted contact form,0.0,1
+emc rsa archer grc,0.0,1
+valve steam,0.0,1
+mozilla bugzilla,0.0,1
+adobe air sdk %26 compiler,0.0,1
+airties air 6372,0.0,1
+cisco prime collaboration assurance,0.0,1
+cisco prime collaboration provisioning,0.0,1
+cisco edge bluebird operating system,0.0,1
+fiverrscript fiverrscript,0.0,1
+"('LOCAL', 'MEDIUM', 'SINGLE_INSTANCE', 'NONE', 'NONE')",1.5,0
+oracle commerce guided search and experience manager,0.0,1
+ibm http server,0.0,1
+apache standard taglibs,0.0,1
+apache xerces-c,0.0,1
+kankun smartsocket,0.0,1
+openstack compute,0.0,1
+ibm tivoli storage flashcopy manager,0.0,1
+zend zend framework,0.0,1
+xmlsoft libxml,0.0,1
+redhat jboss bpm suite,0.0,1
+samsung galaxy s6,0.0,1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",2.9,0
+schneider electric struxureware building expert mpm,0.0,1
+microsoft malicious software removal tool,0.0,1
+ows scald,0.0,1
+drupaljedi amocrm,0.0,1
+drupaldise cms updater,0.0,1
+cisco asa cx context-aware security software,0.0,1
+cisco spa 501g 8-line ip phone,0.0,1
+cisco videoscape delivery system for internet streamer,0.0,1
+cisco mobility services engine,0.0,1
+oracle sql trace analyzer,0.0,1
+oracle jd edwards products,0.0,1
+ubuntu network-manager,0.0,1
+libarchive libarchive,0.0,1
+apache groovy,0.0,1
+kiwix kiwix,0.0,1
+libssh2 libssh2,0.0,1
+zfcuser project zfcuser,0.0,1
+7-zip p7zip,0.0,1
+"('NETWORK', 'LOW', 'NONE', 'NONE', 'COMPLETE')",7.8,0
+ceragon fiberair ip-10g,0.0,1
+ipass ipass open mobile,0.0,1
+labtech software labtech,0.0,1
+lenovo thinkserver td350,0.0,1
+trend micro scanmail,0.0,1
+typo3 typo3,0.0,1
+roaring penguin remind,0.0,1
+mozilla seamonkey,0.0,1
+sap hana web-based development workbench,0.0,1
+sap netweaver java application server,0.0,1
+apple mac os x server,0.0,1
+zanematthew zm ajax login %26 register,0.0,1
+elasticsearch logstash,0.0,1
+gnu parallel,0.0,1
+sap content server,0.0,1
+thoughtbot paperclip,0.0,1
+bonitasoft bonita bpm portal,0.0,1
+boxautomation c2box,0.0,1
+oscommerce oscommerce,0.0,1
+asus rt-g32,0.0,1
+debian dbd-firebird,0.0,1
+hotspot express hotex billing manager,0.0,1
+gnome byzanz,0.0,1
+perfecto project perfecto,0.0,1
+site documentation project site documentation,0.0,1
+og tabs project og tabs,0.0,1
+image title project image title,0.0,1
+sqlite sqlite,0.0,1
+webform multiple file upload project webform multiple file upload,0.0,1
+crumbs project crumbs,0.0,1
+cisco digital content manager,0.0,1
+cisco prime network registrar,0.0,1
+wideimage project wideimage,0.0,1
+libevent project libevent,0.0,1
+hp software update,0.0,1
+metalgenix genixcms,0.0,1
+kallithea kallithea,0.0,1
+redhat kexec-tools,0.0,1
+cisco ubr10000 cable modem termination system,0.0,1
+icsgmbh pactware,0.0,1
+views bulk operations project views bulk operations,0.0,1
+x libxfont,0.0,1
+me aliases project me aliases,0.0,1
+microsoft powerpoint,0.0,1
+microsoft system center operations manager 2012,0.0,1
+codepeople appointment booking calendar,0.0,1
+cisco catalyst 4510r%2be,0.0,1
+cisco unified callmanager,0.0,1
+oracle right now service cloud,0.0,1
+content construction kit project content construction kit,0.0,1
+debian unattended-upgrades,0.0,1
+"('LOCAL', 'LOW', 'NONE', 'NONE', 'COMPLETE')",4.9,0
+linuxcontainers lxc,0.0,1
+fusionforge fusionforge,0.0,1
+redhat jboss enterprise portal platform,0.0,1
+redhat libuser,0.0,1
+redhat enterprise linux workstation,0.0,1
+zohocorp manageengine admanager plus,0.0,1
+shibboleth opensaml java,0.0,1
+"('ADJACENT_NETWORK', 'HIGH', 'NONE', 'NONE', 'PARTIAL')",1.8,0
+ntp ntp,0.0,1
+"('ADJACENT_NETWORK', 'MEDIUM', 'NONE', 'NONE', 'PARTIAL')",4.3,0
+d-link dsl-2730b,0.0,1
+puppetlabs puppet,0.0,1
+web-dorado spider facebook,0.0,1
+avinu phpmoadmin,0.0,1
+"('LOCAL', 'HIGH', 'NONE', 'COMPLETE', 'COMPLETE')",6.2,0
+livelycart livelycart,0.0,1
+cisco unified meetingplace web conferencing,0.0,1
+i-o data device np-bbrm,0.0,1
+shiromuku bu2 bbs,0.0,1
+hp access control,0.0,1
+pivotal software rabbitmq management,0.0,1
+hp tippingpoint security management system,0.0,1
+hp storage data protector,0.0,1
+synck graphica download log cgi,0.0,1
+cisco spark,0.0,1
+w1.fi hostapd,0.0,1
+juniper srx100,0.0,1
+zurmo zurmo crm,0.0,1
+mindbite sitefactory cms,0.0,1
+todo filter project todo filter,0.0,1
+synology video station,0.0,1
+microsoft windows xp,0.0,1
+"('NETWORK', 'LOW', 'SINGLE_INSTANCE', 'COMPLETE', 'PARTIAL')",7.5,0
+adobe adobe air,0.0,1
+adobe adobe air sdk,0.0,1
+mediawiki scribunto,0.0,1
+finder project finder,0.0,1
+mover project mover,0.0,1
+module-signature project module-signature,0.0,1
+taxonomy accordion project taxonomy accordion,0.0,1
+opentext secure mft 2014,0.0,1
+citrix command center,0.0,1
+libuv project libuv,0.0,1
+redhat richfaces,0.0,1
+cisco jabber,0.0,1
+codfront labs http strict transport security,0.0,1
+vmware horizon view client,0.0,1
+ab google map travel project ab google map travel,0.0,1
+gaia-gis freexl,0.0,1
+palosanto elastix,0.0,1
+google doc embedder google doc embedder,0.0,1
+inline entity form project inline entity form,0.0,1
+webgroupmedia cerb,0.0,1
+"('NETWORK', 'LOW', 'MULTIPLE_INSTANCES', 'COMPLETE', 'COMPLETE')",8.3,0
+"('NETWORK', 'LOW', 'MULTIPLE_INSTANCES', 'PARTIAL', 'PARTIAL')",5.8,0
+sumome google analyticator,0.0,1
+microsoft lync basic,0.0,1
+auto-exchanger auto-exchanger,0.0,1
+apache solr real-time project apache solr real-time,0.0,1
+cisco asr 9001,0.0,1
+cisco secure desktop,0.0,1
+oracle vm server,0.0,1
+ibm rational license key server,0.0,1
+kde plasma-workspace,0.0,1
+sympa sympa,0.0,1
+sap netweaver abap,0.0,1
+kde kde-workspace,0.0,1
+job manager job manager,0.0,1
+ibm tivoli storage fastback for microsoft exchange,0.0,1
+realmd project realmd,0.0,1
+chamilo integration project chamilo integration,0.0,1
