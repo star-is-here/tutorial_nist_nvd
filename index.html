@@ -188,7 +188,7 @@
 
 <!--header-->
 <div id='story' class="container-fluid main-container" style="background-color:white;">
-    <br><br>
+    <br>
     <div class='container'>
     <br><br>
         <div class="row">
@@ -214,9 +214,8 @@
             </div>
             <div class="col-lg-7">
                 <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;"><strong>How often should we update our software to stay secure?</strong></span>
-                    <br><br> That's the question Americans ask themselves almost daily. What is a good tradeoff between convienence and security when everything we use seems to require constant updates? How often are the vulnerabilities being discovered, exploited, or patched in the software that powers our lives? How much are we putting ourselves at risk when we ignore our updates?
-                    <br><br> As it turns out, the National Institute of Standards and Technology (NIST) maintains a database of reported vulnerabilities according to their Common Vulnerabilities and Exposures (CVE) Identifier sponsored by Department of Homeland Security’s National Cyber Security Division. Analysis done on vulnerabilities listed would reveal insights into freqency that vulnerabilities are being reported and the risk to our everyday lives. The National Vulnerabilities Database (<a href="https://nvd.nist.gov/home.cfm">NVD</a>) lists known vulnerabilities dating back to 2002.
-                    <br><br>
+                    <br> That's the question Americans ask themselves daily. What is a good tradeoff between convienence and security when everything we use seems to require constant updates? How often are the vulnerabilities being discovered, exploited, or patched in the software that powers our lives? How much are we putting ourselves at risk when we ignore our updates?
+                    <br><br> As it turns out, the National Institute of Standards and Technology (<a href="www.nist.gov">NIST</a>) maintains the National Vulnerabilities Database (<a href="https://nvd.nist.gov/home.cfm">NVD</a>), which contains reported vulnerabilities according to their Common Vulnerabilities and Exposures (CVE) Identifier. With coverage back to 2002, the NVD is sponsored by Department of Homeland Security’s National Cyber Security Division. Analysis conducted on listed vulnerabilities reveals insights into frequency at which vulnerabilities are reported and the risk to our everyday lives. 
                 </p>
             </div>
         </div>
@@ -225,7 +224,8 @@
 
     <div class="container-fluid main-container">
         <p style="font-family:Helvetica;">
-            <br><br> First we look at a simple timeline over 2015 for both the number of vulnerabilities published on a day and the 'weighted threat' (the sum of the Common Vulnerability Scoring System score). The Common Vulnerability Scoring System (<a href="https://www.first.org/cvss">CVSS</a>) is "an open framework for communicating the characteristics and severity of software vulnerabilities" published by the CVSS Special Interest Group, acting on behalf of FIRST.org. We can use the CVSS score as a measure of the threat posed by any one vulnerability. NIST also maintains a calculator for CVSS v2 at <a href='https://nvd.nist.gov/cvss.cfm'></a> and will begin scoring with CVSS v3 in the fall of 2015. Every vulnerability on the NVD is scored according to the CVSS. We call the sum of the CVSS score for any given day the 'weighted threat' for that given day. Looking at the timeline below, we can see severe differences from day to day. For example on July 16, 2015, there were 159 vulnerabilities reported with a combined weighted threat of roughly 941. Other days barely see 2 vulnerabilities reported with weighted threats mostly under 50. Quite a large margin day to day.
+             <br><span style="font-size:150%;color:darkred;"><strong>Seeing is believing</strong></span><br>
+           Over time, reported vulnerabilities appear to fluctuate at random. For example, the the graph below of 2015 activity plots the number of reported vulnerabilities per day as well as the 'weighted threat' (the sum of the Common Vulnerability Scoring System score). The Common Vulnerability Scoring System (<a href="https://www.first.org/cvss">CVSS</a>) is "an open framework for communicating the characteristics and severity of software vulnerabilities" published by the CVSS Special Interest Group, acting on behalf of FIRST.org. We can use the CVSS score as a measure of the threat posed by any one vulnerability. NIST also maintains a calculator for CVSS v2 at <a href='https://nvd.nist.gov/cvss.cfm'></a> and will begin scoring with CVSS v3 in the fall of 2015. Every vulnerability on the NVD is scored according to the CVSS. We call the sum of the CVSS score for any given day the 'weighted threat' for that given day. Looking at the timeline below, we can see severe differences from day to day. For example on July 16, 2015, there were 159 vulnerabilities reported with a combined weighted threat of roughly 941. Other days barely see 2 vulnerabilities reported with weighted threats mostly under 50. Quite a large margin day to day.
             <br><br>
         </p>
     </div>
@@ -335,8 +335,8 @@
 <div style="background-color:white">
 <div class="container-fluid main-container">
     <br><br>
-    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;"><strong>Is there a seasonal effect to the reporting of vulnerabilities?</strong></span>
-        <br><br> Given such large differences day to day, what about changes from week to week? How much can the number of vulnerabilities reported vary from week to week? We now compare 2015 against the last four years on a weekly basis. Looking below, the difference in reported vulnerabilities still varies greatly but the we do see consistent peak weeks across several years. It seems that certain weeks on a quarterly basis peak or dip consistently across years.
+    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">Is there a seasonal effect to the reporting of vulnerabilities?</span>
+        <br><br> Often times, patterns only emerge when aggregating data. Given such large differences day to day, what about changes from week to week? How much can the number of vulnerabilities reported vary from week to week? We now compare 2015 against the last four years on a weekly basis. Looking below, the difference in reported vulnerabilities still varies greatly but the we do see consistent peak weeks across several years. It seems that certain weeks on a quarterly basis peak or dip consistently across years.
         <br><br> It would seem on an initial look there is a slight seasonal effect every quarter. This would suggest that at the bare minimum, we should update our software every quarter before the next spike in reported vulnerabilities comes in. 
         <br><br>
     </p>
@@ -372,7 +372,7 @@
 <div class="container-fluid main-container">
 <!-- <p><a href="./line_chart.html">Open in separate window</a></p> -->
 <br><br>
-    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;"><strong>What platforms are being are being reported on?</strong></span>
+    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">What platforms are being are being reported on?</span>
         <br><br> Given the sometimes large threat from reported vulnerabilities in a day, what platforms are being targeted? Since most days have zero reported vulnerabilites, we look at a weekly snapshot and plot a network graph of affected platforms. Sizing each vulnerability by their CVSS score, we can see what are the biggest targets from our timeline above.
         <br><br> Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in week 4 (week of January 19th) above below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a bad Tuesday for Mirosoft and Linux and a bad Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
   </p>
@@ -729,12 +729,11 @@
 <div style="background-color:white">
 <div class="container-fluid main-container" >
 <!-- <p><a href="./nvd_network.html">Open in separate window</a></p> -->
-<br><br>
-    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;"><strong>But what platforms over the year are most at risk?</strong></span>
-        <br><br> Our weekly snapshot reveals that for any given week of the year, 5 or more platforms could have vulnerabilities reported. But what are the most targeted platforms overall for 2015? To answer this, we look at the top ranking platforms in terms of vulnerabilities reported. Are the platforms being targeted ones people never use? Does conventional wisdom hold? Is Apple more secure than Microsoft? Is Linux the most secure operating system?
-        <br><br> Looking below, populous platforms are obviously more targeted. The difference in reported vulnerabilities between Apple and Microsoft is minimal over 2015. Linux is ranked much lower compared to the other two major operating systems. We can also look at the interaction between platforms which up to this point we have not been able to capture. Adobe, Canonical, and Novell are closely tied with major platforms such as Apple, Microsoft or Cisco. Vulnerabilites reported for former are often reported for the latter. 
+<br>
+    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">But what platforms over the year are most at risk?</span>
+        <br><br> Our weekly snapshot reveals that for any given week of the year, five or more platforms could have vulnerabilities reported. But what are the most targeted platforms overall for 2015? To answer this, we look at the top ranking platforms in terms of vulnerabilities reported. Are the platforms being targeted ones people never use? Does conventional wisdom hold? Is Apple more secure than Microsoft? Is Linux the most secure operating system?
     </p>
-    <br><br>
+    <br>
 </div>
 
 <div id="nvd_plat" class="container-fluid main-container" style="background-color:white;">
@@ -752,12 +751,17 @@
             myChart.draw();
         });
     </script>
-    <br><br>
+    <br>
 </div>
-
-<div id='svg_section' class="container-fluid main-container" style="background-color:black;margin-left:auto;margin-right:auto;text-align:center">
-    <object data="./img/network_2015.svg" type="image/svg+xml" width=$("#svg_section").width()>
-        <img src="./img/network_2015.png" height="2560" width="2560" />
+    <div class="container-fluid main-container" >
+         <p style="font-family:Helvetica;">
+            <br> Looking below, populous platforms are obviously more targeted. The difference in reported vulnerabilities between Apple and Microsoft is minimal over 2015. Linux is ranked much lower compared to the other two major operating systems. We can also look at the interaction between platforms which up to this point we have not been able to capture. Adobe, Canonical, and Novell are closely tied with major platforms such as Apple, Microsoft or Cisco. Vulnerabilites reported for former are often reported for the latter. 
+        </p><br>
+    </div>
+    
+<div id='svg_section' class="container-fluid" style="background-color:black;margin-left:auto;margin-right:auto;text-align:center">
+    <object data="./img/network_2015.svg" type="image/svg+xml" width=70%>
+        <img src="./img/network_2015.png" height="50%" width="100%" />
     </object>
     <br><br>
 </div>
@@ -765,30 +769,27 @@
 
 <div class="container-fluid main-container" >
 <!-- <p><a href="./nvd_network.html">Open in separate window</a></p> -->
-<br><br>
-    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;"><strong>Okay, so how often should I update?</strong></span>
-        <br><br>So how often should we update? Our exploratory look at the NVD suggest that at the very least every quarter. We see that there is a slight seasonality to when reports come in. Of course our look did extend into the associated threat of each vulnerability very much. More severe vulnerabilities would necessitate a higher update frequency. But how frequent? the answer is determined by each person's individual risk tolerance. Providing these tools will allow for each individual to more accurately assess their own course of action.
+<br>
+    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">Okay, so how often should I update?</span>
+        <br>So how often should we update? Our exploratory look at the NVD suggest that at the very least every quarter. We see that there is a slight seasonality to when reports come in. Of course our look did extend into the associated threat of each vulnerability very much. More severe vulnerabilities would necessitate a higher update frequency. But how frequent? the answer is determined by each person's individual risk tolerance. Providing these tools will allow for each individual to more accurately assess their own course of action.
     </p>
-    <br><br>
 </div>     
 
 </div>
-<br><br>
-<hr>
+
 
 
 <!--Do more-->
-<div id='code' style="color:black;font-family:Helvetica;color:grey;" >
+<div id='code' style="color:black;font-family:Helvetica;" >
     <div class="container-fluid main-container">
-    <br><br>
-    <p style="font-family:Helvetica"><span style="font-size:150%;color:darkred;"><br><br><strong>Get Started with the National Vulnerability Database</strong></span>
+    <p style="font-family:Helvetica"><span style="font-size:200%;color:darkred;"><br><strong>Getting Started</strong></span>
         <br>NVD Data can be used for assessing cyber security risk.
-            <ul>
-            <li> <strong>Parsing NIST NVD 2015 xml.</strong> Extracting relevant into a manipulable format. </li>
-            <li> <strong>Creating timeline for vulnerabilities.</strong></li>
-            <li> <strong>Creating network list for weekly view.</strong></li>
-            <li> <strong>Creating edge and node list for annual view.</strong></li>
-            </ul>
+            <ul><br>
+                <li> Parsing NIST NVD 2015 XML. Extracting relevant into a manipulable format. </li>
+                <li> Creating timeline for vulnerabilities.</li>
+                <li> Creating network list for weekly view.</li>
+                <li> Creating edge and node list for annual view.</li>
+                </ul>
         <br><a href="./nist_nvd_notebook.ipynb">Jupyter Notebook Version</a>
     </p>
     
