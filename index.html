@@ -195,26 +195,20 @@
             <div class="col-lg-2"style="font-family:Helvetica;text-align:left;background-color:white; border-style: solid;
                 border-color:lightgrey;border-radius:5px;border-width: 2px;">
                 <p><span style="font-size:120%;color:darkred;">Credits</span>
-                    <small><br><strong>NIST NVD</strong>
+                    <small><br><strong>National Vulnerabilities Database
+                    <br>@ the National Institute of Standards and Technology</strong><br><br>
+                    <strong>Visualizations from the Commerce Data Service</strong><br>
                     <ul>
-                        <li>******************  ************</li>
-                        <li>******************  ************</li>
-                    </ul>
-                    <strong>******************  ************</strong><br><br>
-                    <strong>******************  ************</strong><br>
-                        <ul><li>******************  ************</li></ul>
-                    <strong>Visualizations</strong><br>
-                    <ul>
-                        <li>******************  ************</li>
-                        <li>******************  ************</li>
-                        <li>******************  ************</li>
+                        <li>Star Ying</li>
+                        <li>Jeff Chen</li>
+                        <li>Tyrone Grandison</li>
                     </ul>
                     </small>
                 </p>
             </div>
             <div class="col-lg-7">
                 <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;"><strong>How often should we update our software to stay secure?</strong></span>
-                    <br> That's the question Americans ask themselves daily. What is a good tradeoff between convienence and security when everything we use seems to require constant updates? How often are the vulnerabilities being discovered, exploited, or patched in the software that powers our lives? How much are we putting ourselves at risk when we ignore our updates?
+                    <br> That's the question Americans ask themselves daily. What is a good tradeoff between convenience and security when everything we use seems to require constant updates? How often are the vulnerabilities being discovered, exploited, or patched in the software that powers our lives? How much are we putting ourselves at risk when we ignore our updates?
                     <br><br> As it turns out, the National Institute of Standards and Technology (<a href="www.nist.gov">NIST</a>) maintains the National Vulnerabilities Database (<a href="https://nvd.nist.gov/home.cfm">NVD</a>), which contains reported vulnerabilities according to their Common Vulnerabilities and Exposures (CVE) Identifier. With coverage back to 2002, the NVD is sponsored by Department of Homeland Security’s National Cyber Security Division. Analysis conducted on listed vulnerabilities reveals insights into frequency at which vulnerabilities are reported and the risk to our everyday lives. 
                 </p>
             </div>
@@ -377,7 +371,7 @@
 <br><br>
     <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">What platforms are being are being reported on?</span>
         <br><br> Given the sometimes large threat from reported vulnerabilities in a day, what platforms are being targeted? Since most days have zero reported vulnerabilites, we look at a weekly snapshot and plot a network graph of affected platforms. Sizing each vulnerability by their CVSS score, we can see what are the biggest targets from our timeline above.
-        <br><br> Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in Week 4 (week of January 19th) above below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a bad Tuesday for Mirosoft and Linux and a bad Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
+        <br><br> Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in Week 4 (week of January 19th) below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a bad Tuesday for Mirosoft and Linux and a bad Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
   </p>
 </div>
 
@@ -734,8 +728,8 @@
 <div class="container-fluid main-container" >
 <!-- <p><a href="./nvd_network.html">Open in separate window</a></p> -->
 <br>
-    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">But what platforms over the year are most at risk?</span>
-        <br><br> Our weekly snapshot reveals that for any given week of the year, five or more platforms could have vulnerabilities reported. But what are the most targeted platforms overall for 2015? To answer this, we look at the top ranking platforms in terms of vulnerabilities reported. Are the platforms being targeted ones people never use? Does conventional wisdom hold? Is Apple more secure than Microsoft? Is Linux the most secure operating system?
+    <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">But what platforms over the year are reported on and patched the most?</span>
+        <br><br> Our weekly snapshot reveals that for any given week of the year, five or more platforms could have vulnerabilities reported. But what are the most targeted platforms overall for 2015? To answer this, we look at the top ranking platforms in terms of vulnerabilities reported. Are the platforms being targeted ones people never use? Does conventional wisdom hold? Does Apple receive less reported vulnerabilities than Microsoft? Does Linux receive even less?
     </p>
     <br>
 </div>
@@ -770,7 +764,7 @@
 </div>
     <div class="container-fluid main-container" >
          <p style="font-family:Helvetica;">
-            <br> Looking below, populous platforms are obviously more targeted. The difference in reported vulnerabilities between Apple and Microsoft is minimal over 2015. Linux is ranked much lower compared to the other two major operating systems. We can also look at the interaction between platforms which up to this point we have not been able to capture. Adobe, Canonical, and Novell are closely tied with major platforms such as Apple, Microsoft or Cisco. Vulnerabilites reported for former are often reported for the latter. 
+            <br> Looking below, populous platforms obviously have more reported vulnerabilities. The difference in reported vulnerabilities between Apple and Microsoft is minimal over 2015. Vulnerabilities for both platforms are being reported and patched to roughly the same consistency. Linux receives much less compared to the other two major operating systems suggesting it has much less focus on it thant Apple or Microsoft. We can also look at the interaction between platforms which up to this point we have not been able to capture. Adobe, Canonical, and Novell are closely tied with major platforms such as Apple, Microsoft or Cisco. Vulnerabilites reported for former are often reported for the latter. 
         </p><br>
     </div>
  
@@ -787,7 +781,7 @@
 <!-- <p><a href="./nvd_network.html">Open in separate window</a></p> -->
 <br>
     <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">Okay, so how often should I update?</span>
-        <br>So how often should we update? Our exploratory look at the NVD suggest that at the very least every quarter. We see that there is a slight seasonality to when reports come in. Of course our look did extend into the associated threat of each vulnerability very much. More severe vulnerabilities would necessitate a higher update frequency. But how frequent? the answer is determined by each person's individual risk tolerance. Providing these tools will allow for each individual to more accurately assess their own course of action.
+        <br>So how often should we update? Our exploratory look at the NVD suggest that at the very least every quarter. We see that there is a slight seasonality to when reports come in. Of course our look did not extend into the associated threat of each vulnerability very much. More severe vulnerabilities would necessitate a higher update frequency. But how frequent? the answer is determined by each person's individual risk tolerance. Providing these tools will allow for each individual to more accurately assess their own course of action.
     </p>
 </div>     
 
@@ -1205,7 +1199,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Now we are interested in the number of vulnerabilities reported by platform. Does conventional wisdom hold up? Are Apple products more secure than Microsoft? Is Linux more secure than either? To answer this, we create a new entry for each new platform and do a running sum as we parse through our defined dictionary. We then sort the resulting list and add a header to make loading in javascript faster.</p>
+<p>Now we are interested in the number of vulnerabilities reported by platform. Does conventional wisdom hold up? Does Apple receive less reported vulnerabilities than Microsoft? Does Linux receive even less? To answer this, we create a new entry for each new platform and do a running sum as we parse through our defined dictionary. We then sort the resulting list and add a header to make loading in javascript faster.</p>
 
 </div>
 </div>
