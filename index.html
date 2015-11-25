@@ -284,16 +284,18 @@
             // Add the bubble series for shift values first so that it is
             // drawn behind the lines
             var s1 = myChart.addSeries("Weighted Threat", dimple.plot.line, [x, y]);
-            s1.data = data[0];
-            s1.lineMarkers = true;
-            myChart.assignColor("Weighted Threat",'#990000');
-            seriesDict['Weighted Threat'] = { data: data[0], series: s1, visible: true };
+                s1.data = data[0];
+                s1.lineMarkers = true;
+                s1.lineWeight = 1;
+                myChart.assignColor("Weighted Threat",'#990000');
+                seriesDict['Weighted Threat'] = { data: data[0], series: s1, visible: true };
 
             var s2 = myChart.addSeries("Count of Vulnerabilities", dimple.plot.line, [x, y]);
-            s2.data = data[1];
-            s2.lineMarkers = true;
-            myChart.assignColor("Count of Vulnerabilities",'#8c8c8c');
-            seriesDict['Count of Vulnerabilities'] = { data: data[1], series: s2, visible: true };
+                s2.data = data[1];
+                s2.lineMarkers = true;
+                s2.lineWeight = 1;
+                myChart.assignColor("Count of Vulnerabilities",'#ffd633');
+                seriesDict['Count of Vulnerabilities'] = { data: data[1], series: s2, visible: true };
 
             // Show a legend
             myLegend = myChart.addLegend(0, 10, 360, 20, "top");
@@ -313,6 +315,7 @@
                 .text(function (d) { return d; });
 
             myLegend.shapes.selectAll("rect")
+            
             // Add a click event to each rectangle
             .on("click", function (e) {
             var meta = seriesDict[e.aggField[0]];
@@ -329,7 +332,7 @@
             });
         });
     </script>
-    <br><br>
+    <br>
 </div>
 
 <div style="background-color:white">
