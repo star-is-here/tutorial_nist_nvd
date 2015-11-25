@@ -374,7 +374,7 @@
 <br><br>
     <p style="font-family:Helvetica;"><span style="font-size:150%;color:darkred;">What platforms are being are being reported on?</span>
         <br><br> Given the sometimes large threat from reported vulnerabilities in a day, what platforms are being targeted? Since most days have zero reported vulnerabilites, we look at a weekly snapshot and plot a network graph of affected platforms. Sizing each vulnerability by their CVSS score, we can see what are the biggest targets from our timeline above.
-        <br><br> Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in week 4 (week of January 19th) above below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a bad Tuesday for Mirosoft and Linux and a bad Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
+        <br><br> Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in Week 4 (week of January 19th) above below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a bad Tuesday for Mirosoft and Linux and a bad Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
   </p>
 </div>
 
@@ -740,12 +740,21 @@
     <script type="text/javascript">
         var w = $("#nvd_plat").width()
             h = window.innerHeight/1.7;
+        
         var svg_plat = dimple.newSvg("#nvd_plat", w, h);
         d3.csv("./nvd_plat.csv", function (data) {
             bigcount = data.filter(function(d) { return d.Count > 10 })
+            
             var myChart = new dimple.chart(svg_plat, bigcount);
             myChart.setMargins("10%", "10%", "1%", "10%");
-            myChart.addMeasureAxis("x", "Count");
+            myChart.addMeasureAxis("x", "Count")
+            myChart.defaultColors = [
+                new dimple.color("#333333"),
+                new dimple.color("#666666"),
+                new dimple.color("#999999"),
+                new dimple.color("#BBBBBB"),
+                new dimple.color("#EEEEEE")
+            ];
             var y = myChart.addCategoryAxis("y", "Platform");
             myChart.addSeries('Platform', dimple.plot.bar);
             myChart.draw();
