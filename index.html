@@ -382,7 +382,7 @@
 </div>
 
 <!--NETWORK PLOT-->
-<div id="network_plot" class="container-fluid main-container" style="font-family:helvetica;">
+<div id="network_plot" class="container-fluid main-container" >
     <form>
     <h4 style="font-family:helvetica"> Choose a week: <input 
         type="week", 
@@ -489,11 +489,11 @@
                 h = window.innerHeight/1.2,
                 r = 6;
 
-            var color = d3.scale.category10();
+            var color = d3.scale.category20b();
 
             var vis = d3.select("#network_plot")
                     .append("svg:svg")
-                    .attr("style", "outline: thin solid grey;")
+                    .attr("style", "outline: thin solid lightgrey;")
                     .attr("width", w)
                     .attr("height", h)
                     .attr("id", "svg_net")
