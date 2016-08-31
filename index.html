@@ -99,11 +99,15 @@
                 <section id='intro'>
                     <h2 class="sectionhead">How often should we update our software to stay secure?</h2>
                     <p>That's the question Americans ask themselves daily. What is a good tradeoff between convenience and security when everything we use seems to require constant updates? How often are the vulnerabilities being discovered, exploited, or patched in the software that powers our lives? How much are we putting ourselves at risk when we ignore our updates?</p>  
-                     <p>As it turns out, the National Institute of Standards and Technology (<a href="www.nist.gov">NIST</a>) maintains the National Vulnerabilities Database (<a href="https://nvd.nist.gov/home.cfm">NVD</a>), which contains reported vulnerabilities according to their Common Vulnerabilities and Exposures (CVE) Identifier. With coverage back to 2002, the NVD is sponsored by Department of Homeland Security’s National Cyber Security Division. Analysis conducted on listed vulnerabilities reveals insights into frequency at which vulnerabilities are reported and the risk to our everyday lives.</p>  
-                
-                    <h2 class="subsection">Seing is believing</h2>
+                     <p>As it turns out, the National Institute of Standards and Technology (<a href="www.nist.gov">NIST</a>) maintains the National Vulnerabilities Database (<a href="https://nvd.nist.gov/home.cfm">NVD</a>), which contains reported vulnerabilities according to their Common Vulnerabilities and Exposures (CVE) Identifier. With coverage back to 2002, the NVD is sponsored by Department of Homeland Security's National Cyber Security Division. Analysis conducted on listed vulnerabilities reveals insights into frequency at which vulnerabilities are reported and the risk to our everyday lives.</p>  
+                </section>
+
+                <section id="seeing">
+                    <h2 class="sectionhead">Seing is believing</h2>
                     <p>Over time, reported vulnerabilities appear to fluctuate at random. For example, the the graph below of 2015 activity plots the number of reported vulnerabilities per day as well as the 'weighted threat' (the sum of the Common Vulnerability Scoring System score). The Common Vulnerability Scoring System (<a href="https://www.first.org/cvss">CVSS</a>) is "an open framework for communicating the characteristics and severity of software vulnerabilities" published by the CVSS Special Interest Group, acting on behalf of FIRST.org. We can use the CVSS score as a measure of the threat posed by any one vulnerability. NIST also maintains a calculator for CVSS v2 at <a href='https://nvd.nist.gov/cvss.cfm'></a> and will begin scoring with CVSS v3 in the fall of 2015. Every vulnerability on the NVD is scored according to the CVSS. We call the sum of the CVSS score for any given day the 'weighted threat' for that given day. Looking at the timeline below, we can see severe differences from day to day. For example on July 16, 2015, there were 159 vulnerabilities reported with a combined weighted threat of roughly 941. Other days barely see 2 vulnerabilities reported with weighted threats mostly under 50. Quite a large margin day to day.
                     </p>
+
+                    <h2 class="subsection">Vulnerabilities reported in 2015</h2>
 
                     <!-- Timeline Here -->
                     <div id="chartContainer" class="container-fluid main-container">
@@ -195,12 +199,17 @@
                             });
                         </script>
                     </div>
+                </section>
 
-                    <h2 class="subsection">Is there a seasonal effect to the reporting of vulnerabilities?</h2>
+                <section id="seasonal">
+
+                    <h2 class="sectionhead">Is there a seasonal effect to the reporting of vulnerabilities?</h2>
                     <p>Often times, patterns only emerge when aggregating data. Given such large differences day to day, what about changes from week to week? How much can the number of vulnerabilities reported vary from week to week? We now compare 2015 against the last four years on a weekly basis. Looking below, the difference in reported vulnerabilities still varies greatly but the we do see consistent peak weeks across several years. It seems that certain weeks on a quarterly basis peak or dip consistently across years.
                     </p>
                     <p>It would seem on an initial look there is a slight seasonal effect every quarter. This would suggest that at the bare minimum, we should update our software every quarter before the next spike in reported vulnerabilities comes in. </p>
 
+
+                    <h2 class="subsection">annual time series for the past five years</h2>
 
                     <div id="timeline_five" class="container-fluid main-container" style="background-color:white;color:darkred">
                         <script src="//cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.1/dygraph-combined.js"></script>
@@ -225,12 +234,17 @@
                         });
                         </script>
                     </div>
+                </section>
 
-                    <h2 class="subsection">What platforms are being reported on?</h2>
+                <section id="platform">
+
+                    <h2 class="sectionhead">What platforms are being reported on?</h2>
                     <p>Given the sometimes large threat from reported vulnerabilities in a day, what platforms are being targeted? Since most days have zero reported vulnerabilites, we look at a weekly snapshot and plot a network graph of affected platforms. Sizing each vulnerability by their CVSS score, we can see what are the biggest targets from our timeline above.
                     </p>
                     <p>Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in Week 4 (week of January 19th) below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a busy Tuesday for Microsoft and Linux and a busy Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
                     </p>
+
+                    <h2 class="subsection">network graph of vulnerabilities and platforms</h2>
 
                     <div id="network_plot" class="container-fluid main-container" >
                       <form>
@@ -562,6 +576,8 @@
                       </script>
                   </div>
 
+                  <h2 class="subsection">larger picture</h2>
+
                   <p>Looking below, populous platforms obviously have more reported vulnerabilities. The difference in reported vulnerabilities between Apple and Microsoft is minimal over 2015. Vulnerabilities for both platforms are being reported and patched to roughly the same consistency. Linux receives much less compared to the other two major operating systems suggesting it has much less focus on it thant Apple or Microsoft. We can also look at the interaction between platforms which up to this point we have not been able to capture. Adobe, Canonical, and Novell are closely tied with major platforms such as Apple, Microsoft or Cisco. Vulnerabilites reported for former are often reported for the latter.</p>
 
                   <!--GEPHI NETWORK PLOT-->
@@ -571,10 +587,12 @@
                       </object>
                   </div>
 
-                  <h2 class="subsection">Okay, so how often should I update?</h2>
-                  <p>So how often should we update? Our exploratory look at the NVD suggest that at the very least every quarter. We see that there is a slight seasonality to when reports come in. Of course our look did not extend into the associated threat of each vulnerability very much. More severe vulnerabilities would necessitate a higher update frequency. But how frequent? The answer is determined by each person's individual risk tolerance. Providing these tools will allow for each individual to more accurately assess their own course of action.</p>
+            </section>
+            <section id="conclusion">
 
-                </section>
+                  <h2 class="sectionhead">Okay, so how often should I update?</h2>
+                  <p>So how often should we update? Our exploratory look at the NVD suggest that at the very least every quarter. We see that there is a slight seasonality to when reports come in. Of course our look did not extend into the associated threat of each vulnerability very much. More severe vulnerabilities would necessitate a higher update frequency. But how frequent? The answer is determined by each person's individual risk tolerance. Providing these tools will allow for each individual to more accurately assess their own course of action.</p>
+            </section>
                
 
                 <section id='gettingstarted'>
@@ -593,13 +611,8 @@
                       <br>
                       <a href="./nist_nvd_notebook.ipynb">Jupyter Notebook Version</a>
                     </p>
-                </section>
 
-                <section id="creatinginputs">
-
-                    <h2 class="sectionhead">Creating Inputs for Network Viz in D3.js + Gephi</h2>
-
-                    <h2 class="subsection">(Using NIST National Vulnerabilities Database)</h2>
+                    <h2 class="sectionhead">Creating Inputs</h2>
                     
                     <h2 class="subsection">Importing the Necessary Packages into Python for processing</h2>
                     
@@ -614,14 +627,14 @@
                         <li>(Optional) tqdm for creating a cheap progress bar on an iterable.</li>
                     </ol>
 
-                    <pre><code>import re, csv, json, datetime
+                    <pre><code class="python">import re, csv, json, datetime
 from tqdm import *</code></pre>
                     
                     <h2 class="subsection">Defining a function to extract necessary information</h2>
                     
                     <p>We first define a function that can parse the NIST NVD xml file and extract the relevant information. We parse out more fields than is needed for our visualisations. The additional information can be used in the future to create more insights into the NIST NVD. The function returns a dictionary by vulnerability key as defined by https://cve.mitre.org/. All additional information is then stored in a dictionary for that particular vulnerability.</p>
                     
-                    <pre><code>def pull_nvd(fname):
+                    <pre><code class="python">def pull_nvd(fname):
     print 'Loading NVD Dataset: %s'%fname
     nvd_dict = {}
     with open(fname) as f:
@@ -692,13 +705,13 @@ from tqdm import *</code></pre>
 
                 <p>Now run the defined function on the NVD 2015 xml file extracted to the working directory.</p>
                 
-                <pre><code>nvd = pull_nvd('./nvdcve-2.0-2015.xml')</code></pre>
+                <pre><code class="python">nvd = pull_nvd('./nvdcve-2.0-2015.xml')</code></pre>
 
                 <h2 class="subsection">Create a timeline for 2015 so far</h2>
                 
                 <p>We create a timeline for 2015 so far by count for both the unweighted instances and the weighted totals given the CVSS score provided. Both the amount of vulnerabilities reported and the evaluated threat they pose on that day is of interest. We compute a running sum for both to see how much of a difference there is day to day.</p>
                 
-                <pre><code>nvd_timeline = [[],[]]
+                <pre><code class="python">nvd_timeline = [[],[]]
 for cve in tqdm(nvd.keys()):
     if 'vuln_score' in nvd[cve].keys():
         weightedme = {'Method':'Weighted', 'Date':nvd[cve]['vuln_datetime'], 'Value':float(nvd[cve]['vuln_score'])}
@@ -715,14 +728,14 @@ for cve in tqdm(nvd.keys()):
                 
                 <p>Export our newly structured data to the local working directory as a JSON. This is now an input for our d3.js + dimple.js scatter plot.</p>
                 
-                <pre><code>with open('./nvd_timeline.json', 'wb') as f:
+                <pre><code class="python">with open('./nvd_timeline.json', 'wb') as f:
     json.dump(nvd_timeline, f)</code></pre>
                 
                 <h2 class="subsection">Create a count of vulnerabilities per platform</h2>
                 
                 <p>Now we are interested in the number of vulnerabilities reported by platform. Does conventional wisdom hold up? Does Apple receive less reported vulnerabilities than Microsoft? Does Linux receive even less? To answer this, we create a new entry for each new platform and do a running sum as we parse through our defined dictionary. We then sort the resulting list and add a header to make loading in javascript faster.</p>
                 
-                <pre><code>nvd_plat = []
+                <pre><code class="python">nvd_plat = []
 for cve in tqdm(nvd.keys()):
     if 'vuln_score' in nvd[cve].keys():
         for os in nvd[cve]['vuln_os']:
@@ -739,7 +752,7 @@ nvd_plat_sort.extend(sorted(nvd_plat))</code></pre>
                 
                 <p>Export our (again) newly structured data this time to a CSV in the local working directory. We show how different file types can be exported from Python. We can then use our exported file as an input for d3.js + dimple.js histogram.</p>
                 
-                <pre><code>with open('./nvd_plat.csv', 'wb') as csvfile:
+                <pre><code class="python">with open('./nvd_plat.csv', 'wb') as csvfile:
     writeme = csv.writer(csvfile, delimiter=',')
     writeme.writerows(nvd_plat_sort)</code></pre>
                 
@@ -747,7 +760,7 @@ nvd_plat_sort.extend(sorted(nvd_plat))</code></pre>
                 
                 <p>Now we want to look at what platforms are being attacked for each week. We do this by creating a dictionary of nodes and edges with the additional week number, day number, and threat score loaded. Then given the dictionary, export to JSON file.</p>
                 
-                <pre><code>nvd_json = {'nodes':[],'links':[]}
+                <pre><code class="python">nvd_json = {'nodes':[],'links':[]}
 for cve in nvd.keys():
     if 'vuln_os' in nvd[cve].keys():
         append_vuln = {'name':cve, 'group':nvd[cve]['vuln_date'][2], 'week':nvd[cve]['vuln_date'][1], 'threat':float(nvd[cve]['vuln_score']), 'type':1}
@@ -760,14 +773,14 @@ for cve in nvd.keys():
                 
                 <p>We now export to JSON for our d3.js network graph.</p>
                 
-                <pre><code>with open('./data/nvd.json', 'wb') as f:
+                <pre><code class="python">with open('./data/nvd.json', 'wb') as f:
     json.dump(nvd_json, f)</code></pre>
                 
                 <h2 class="subsection">Build inputs for Gephi (Big Annual Network Graph)</h2>
                 
                 <p>Weekly slices are important but we also want to see the whole network of vulnerabilities and platforms for 2015 at once. The number of nodes (platforms and vulnerabilities) and edges are too big for an interactive d3.js visualization. We instead use <a href="http://gephi.github.io/">Gephi</a>. Gephi requires an edge list and (optionally) a node list (if unconnected nodes exist). We create both in this exercise as list arrays with headers filled in. Then populate each row with either the edge or node. Finally, writing both files to csv files in working directory.</p>
                 
-                <pre><code>nvd_edge = [['source','target','value']]
+                <pre><code class="python">nvd_edge = [['source','target','value']]
 for cve in nvd.keys():
     if 'vuln_score' in nvd[cve].keys():
         threat = nvd[cve]['vuln_score']
@@ -791,7 +804,7 @@ for row in nvd_edge:
                 
                 <p>We now export them to CSV for Gephi.</p>
                 
-                <pre><code>with open('./nvd_edge.csv', 'wb') as csvfile:
+                <pre><code class="python">with open('./nvd_edge.csv', 'wb') as csvfile:
     writeme = csv.writer(csvfile, delimiter=',')
     writeme.writerows(nvd_edge)
 
@@ -803,14 +816,14 @@ with open('./nvd_node.csv', 'wb') as csvfile:
                 
                 <p>Given our look at NVD in 2015, we want to expand our look to past years. We do this by expanding our original dictionary to go beyond 2015. We load previous years of the NVD with the same function and update the original dictionary we defined. Then count for each week how many vulnerabilities are reported for each year.</p>
                 
-                <pre><code>nvd.update(pull_nvd('./nvdcve-2.0-2011.xml'))
+                <pre><code class="python">nvd.update(pull_nvd('./nvdcve-2.0-2011.xml'))
 nvd.update(pull_nvd('./nvdcve-2.0-2012.xml'))
 nvd.update(pull_nvd('./nvdcve-2.0-2013.xml'))
 nvd.update(pull_nvd('./nvdcve-2.0-2014.xml'))</code></pre>
                 
                 <p>Now with our newly beefed up dictionary that includes 2011 to 2015 datasets from NVD, we start processing to create time series for all five years. To do this we look at iso week number for any given year and conducting a running sum of the number of vulnerabilities reported. Commented out is an alternative look at the combined CVSS score for that week.</p>
                 
-                <pre><code>nvd_timeline_five = []
+                <pre><code class="python">nvd_timeline_five = []
 for cve in tqdm(nvd.keys()):
     if 'vuln_score' in nvd[cve].keys():
         appendme = [nvd[cve]['vuln_date'][1],0,0,0,0,0]
@@ -836,12 +849,12 @@ for cve in tqdm(nvd.keys()):
                 
                 <p>Like before we want to sort the resulting structured data and attach a header to it. This reduces processing on the javascript end.</p>
                 
-                <pre><code>nvd_timeline_five_sort = [['week','2015','2014','2013','2012','2011']]
+                <pre><code class="python">nvd_timeline_five_sort = [['week','2015','2014','2013','2012','2011']]
 nvd_timeline_five_sort.extend(sorted(nvd_timeline_five))</code></pre>
                 
                 <p>Now we can export it to a CSV for our dygraph.js plot.</p>
                 
-                <pre><code>with open('./data/nvd_timeline_five.csv', 'wb') as csvfile:
+                <pre><code class="python">with open('./data/nvd_timeline_five.csv', 'wb') as csvfile:
     writeme = csv.writer(csvfile, delimiter=',')
     writeme.writerows(nvd_timeline_five_sort)</code></pre>
                 
@@ -887,8 +900,11 @@ nvd_timeline_five_sort.extend(sorted(nvd_timeline_five))</code></pre>
                             </ul>
                         </li>
                         <li><a href="#intro">INTRODUCTION</a></li>
+                        <li><a href="#seeing">SEEING IS BELIEVING</a></li>
+                        <li><a href="#seasonal">SEASONAL EFFECTS</a></li>
+                        <li><a href="#platform">WHAT PLATFORMS</a></li>
+                        <li><a href="#conclusion">CONCLUSION</a></li>
                         <li><a href="#gettingstarted">GETTING STARTED</a></li>
-                        <li><a href="#creatinginputs">CREATING INPUTS</a></li>
                         
                     </ul>
                 </div><!-- Sidebar -->
