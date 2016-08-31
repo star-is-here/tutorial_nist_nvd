@@ -113,7 +113,7 @@
                             var w = $("#chartContainer").width(),
                                 h = window.innerHeight/1.7;
                             var svg_chart = dimple.newSvg("#chartContainer", w, h);
-                            d3.json('./nvd_timeline.json', function(error, data){
+                            d3.json('./data/nvd_timeline.json', function(error, data){
                                 if (error) return console.warn(error);
                                 // Create the chart as usual
                                 // Needed to be empty chart initially
@@ -205,7 +205,7 @@
                     <div id="timeline_five" class="container-fluid main-container" style="background-color:white;color:darkred">
                         <script src="//cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.1/dygraph-combined.js"></script>
                         <script type="text/javascript">
-                        g = new Dygraph(document.getElementById("timeline_five"), "./nvd_timeline_five.csv", {
+                        g = new Dygraph(document.getElementById("timeline_five"), "./data/nvd_timeline_five.csv", {
                             legend: 'always',
                             // title: 'Vulnerabilities per Week',
                             // showRoller: true,
@@ -229,7 +229,7 @@
                     <h2 class="subsection">What platforms are being reported on?</h2>
                     <p>Given the sometimes large threat from reported vulnerabilities in a day, what platforms are being targeted? Since most days have zero reported vulnerabilites, we look at a weekly snapshot and plot a network graph of affected platforms. Sizing each vulnerability by their CVSS score, we can see what are the biggest targets from our timeline above.
                     </p>
-                    <p>Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in Week 4 (week of January 19th) below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a bad Tuesday for Mirosoft and Linux and a bad Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
+                    <p>Looking at the network graph, we can see that vulnerabilities are often very platform specific and on any given week we can see numerous platforms with new reported vulnerabilites. For example, looking at the spike in Week 4 (week of January 19th) below we can see Oracle had very bad Wednesday. The lion's share of reported vulnerabilities that week were targeted towards Oracle. Likewise, the spike in week 16 (week of April 13th) above corresponds to a busy Tuesday for Microsoft and Linux and a busy Thursday for Oracle. They received the bulk of vulnerabilities reported that week.
                     </p>
 
                     <div id="network_plot" class="container-fluid main-container" >
@@ -350,8 +350,9 @@
                                           .attr("id", function (d) {
                                               return d.source.id + "-" + d.target.id;
                                           })
+                                          .attr("stroke", '#2c3e50')
                                           .attr("stroke-width", function (d) {
-                                              return d.value / 100;
+                                              return d.value / 5;
                                           })
                                           .attr("class", "link");
                                   link.append("title")
@@ -374,6 +375,8 @@
                                               .size(function(d) { return (Math.pow(d.threat,2) + 5) * 20 * w/1500; })
                                               .type(function(d) { return d.type; }))
                                           .attr("class", "nodeStrokeClass")
+                                          .attr("stroke", '#ecf0f1')
+                                          .attr("stroke-width", "2px")
                                           .attr("fill", function(d) { return color(d.group); });
                                   nodeEnter.append("svg:text")
                                           .attr("class", "textClass")
@@ -479,7 +482,7 @@
                           function drawGraph(weeknumber) {
                               graph = new myGraph("#svgdiv");
                               // Load JSON and iteratively draw that weeks graph
-                              d3.json('./nvd.json', function(error, json){
+                              d3.json('./data/nvd.json', function(error, json){
                                   if (error) return console.warn(error);
                                   nodes = json.nodes;
                                   links = json.links;
@@ -538,7 +541,7 @@
                               h = window.innerHeight/1.7;
                           
                           var svg_plat = dimple.newSvg("#nvd_plat", w, h);
-                          d3.csv("./nvd_plat.csv", function (data) {
+                          d3.csv("./data/nvd_plat.csv", function (data) {
                               bigcount = data.filter(function(d) { return d.Count > 10 })
                               
                               var myChart = new dimple.chart(svg_plat, bigcount);
@@ -757,7 +760,7 @@ for cve in nvd.keys():
                 
                 <p>We now export to JSON for our d3.js network graph.</p>
                 
-                <pre><code>with open('./nvd.json', 'wb') as f:
+                <pre><code>with open('./data/nvd.json', 'wb') as f:
     json.dump(nvd_json, f)</code></pre>
                 
                 <h2 class="subsection">Build inputs for Gephi (Big Annual Network Graph)</h2>
@@ -838,7 +841,7 @@ nvd_timeline_five_sort.extend(sorted(nvd_timeline_five))</code></pre>
                 
                 <p>Now we can export it to a CSV for our dygraph.js plot.</p>
                 
-                <pre><code>with open('./nvd_timeline_five.csv', 'wb') as csvfile:
+                <pre><code>with open('./data/nvd_timeline_five.csv', 'wb') as csvfile:
     writeme = csv.writer(csvfile, delimiter=',')
     writeme.writerows(nvd_timeline_five_sort)</code></pre>
                 
